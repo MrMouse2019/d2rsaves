@@ -1,0 +1,15 @@
+{
+  "Character": "NovaPerfect",
+  "Level": 99,
+  "WarmthBefore": 5,
+  "WarmthAfter": 0,
+  "FrostNovaBefore": 0,
+  "FrostNovaAfter": 1,
+  "AllocatedSkillPoints": 106,
+  "UnspentSkillPoints": 4,
+  "TotalSkillPoints": 110,
+  "OtherDataUnchanged": true,
+  "RoundtripIdentical": true,
+  "SourceSHA256": "1EA538124BD82569321A9C2288315725BF073F8CB4607C214A4CFDF6FA8BD736",
+  "UpdatedSHA256": "25ED9DDA754FA6BF88C1B1B3B3495B361E03DFA109AC935F0D1FD4B56165F7B8"
+}

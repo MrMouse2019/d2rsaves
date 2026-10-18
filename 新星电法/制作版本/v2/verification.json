@@ -1,0 +1,26 @@
+{
+  "Format": 105,
+  "Character": "NovaPerfect",
+  "CharacterLevel": 99,
+  "Strength": 11,
+  "Energy": 539,
+  "Shield": "Ethereal Lidless Wall, 48 strength, +1 all skills",
+  "GriffonJewel": "Guardian's Thunder: +10/-10, 5 XP, 50 gold, 35 MF, 1% level 25 Cyclone Armor",
+  "Skillers": 6,
+  "LifeManaSmallCharms": 9,
+  "HoradricCubeInBackpack": true,
+  "BackpackCellsUsed": 39,
+  "Mercenary": {
+    "Act": 2,
+    "Aura": "Prayer",
+    "Level": 98,
+    "HirelingId": 6,
+    "Experience": 104587560,
+    "Equipment": [
+      "Ethereal superior Giant Thresher Insight: 17 Meditation, 260 ED, 250 AR, 6 Critical Strike",
+      "Ethereal superior Bone Visage Cure: 100 ED, 60 total poison resist",
+      "Ethereal superior Archon Plate Chains of Honor"
+    ]
+  },
+  "RoundtripIdentical": true
+}

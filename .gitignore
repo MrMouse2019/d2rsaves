@@ -1,0 +1,7 @@
+# Operating-system metadata and temporary editor files only.
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.swp
+*~

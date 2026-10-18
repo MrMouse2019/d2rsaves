@@ -1,0 +1,12 @@
+{
+  "Character": "NovaPerfect",
+  "Source": "Current Chinese-region game save",
+  "OriginalBeltPotions": 9,
+  "BeltSlots": 16,
+  "FullRejuvenationPotions": 16,
+  "EveryBeltSlotFilled": true,
+  "OtherDataUnchanged": true,
+  "RoundtripIdentical": true,
+  "SourceSHA256": "8738E42F8D21EF25A96089EFBE6ADD46DBDA6C9609D42905264567DE409DEB21",
+  "UpdatedSHA256": "DA10BAABE657663CAE55CE6BD673BBAB5ABC0922ABC1C0FEB08F47E3875CD51B"
+}
