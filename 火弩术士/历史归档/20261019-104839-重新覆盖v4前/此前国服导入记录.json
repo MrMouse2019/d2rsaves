@@ -1,0 +1,27 @@
+{
+  "Date": "2026-10-19T10:39:20.9703610+08:00",
+  "Character": "FireHexBow",
+  "Source": "火弩术士/制作版本/v4-8PP回存烧火棍与精神盾/FireHexBow.d2s",
+  "Destination": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)\\FireHexBow.d2s",
+  "Bytes": 3117,
+  "SHA256": "39DC5DCA9A961437F6D8826B839CA2BDC8120AD8F47EA9F07F5031669C308FAC",
+  "SourceSnapshotSHA256": "15034D82FA4220ABEC27D91984EC0EC390879D1E629BCAECB635FD47F971815B",
+  "BackupDirectory": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-103408-实测回存烧火棍与精神盾前",
+  "BackedUpSameNameFiles": 5,
+  "GameProcessRunning": true,
+  "Authorization": "User explicitly permits archive and CN updates while game may run and guarantees this offline character is not being played",
+  "SourceHashesRecheckedBeforeWrite": true,
+  "SourceTargetHashesMatch": true,
+  "Changes": [
+    "Belt full rejuvenation potions 4 -> 16",
+    "Demon Limb, level23 Enchant20/20, in carried cube",
+    "CTA plus ethereal Spirit Monarch; prior Lidless retained in personal stash",
+    "Base strength15 -> 17; vitality525 -> 523; final strength146"
+  ],
+  "CopiedFiles": [
+    "FireHexBow.d2s"
+  ],
+  "CompanionFilesUnchanged": true,
+  "SharedStashTouched": false,
+  "InGameTest": "Spirit and Enchant charge use pending user test"
+}

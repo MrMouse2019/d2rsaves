@@ -1,0 +1,23 @@
+{
+  "Date": "2026-10-19T10:17:48.5158069+08:00",
+  "Character": "FireHexBow",
+  "Source": "火弩术士/制作版本/v3-最新进度回城修复/FireHexBow.d2s",
+  "Destination": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)\\FireHexBow.d2s",
+  "Bytes": 2987,
+  "SHA256": "AC3DD9BE1A987BF6CD347F15C0FAA5451CA4AC2BFF80E7061BEFCA320A1F4E08",
+  "SourceSnapshotSHA256": "9351A7D64A0C406A0B17176E2A65E702B942357DEE0C36231D6D09FE71EA7884",
+  "BackupDirectory": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-101429-回城修复国服覆盖前",
+  "BackedUpSameNameFiles": 5,
+  "GameExitedBeforeCopy": true,
+  "Changes": [
+    "Sling portal skill 359 -> 411",
+    "Belt full rejuvenation potions 15 -> 16",
+    "Personal stash: 4 Eldritch45 life grand charms and 12 small charms"
+  ],
+  "CopiedFiles": [
+    "FireHexBow.d2s"
+  ],
+  "CompanionFilesUnchanged": true,
+  "SharedStashTouched": false,
+  "InGameCrashRetest": "Pending user test"
+}

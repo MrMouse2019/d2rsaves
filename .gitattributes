@@ -1,13 +1,7 @@
-# Preserve existing save files and historical snapshots byte for byte.
-* -text
-
-# New repository documentation uses LF.
-*.md text eol=lf
-
-# Game save, key binding, controller and map files are binary.
 *.d2s binary
-*.d2i binary
 *.key binary
 *.ctl binary
 *.map binary
-*.ma[0-9]* binary
+*.ma[0-9] binary
+# Frozen upstream tab-separated game tables must retain their original bytes.
+火弩术士/参考资料/数据表/* -text -whitespace

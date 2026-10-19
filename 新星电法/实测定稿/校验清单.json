@@ -1,32 +1,100 @@
-[
-  {
-    "Name": "NovaPerfect.ctl",
-    "Bytes": 900,
-    "SHA256": "8208A27A9EE589A0750A3A031432FF99B5B023DAB4DF9A19463B22271CA9801D"
+{
+  "Date": "2026-10-19T11:06:10.4208172+08:00",
+  "Status": "用户认可实测归档；PR待review合入",
+  "Character": "NovaPerfect",
+  "Files": [
+    {
+      "Name": "NovaPerfect.ctl",
+      "Bytes": 900,
+      "SHA256": "8208A27A9EE589A0750A3A031432FF99B5B023DAB4DF9A19463B22271CA9801D"
+    },
+    {
+      "Name": "NovaPerfect.d2s",
+      "Bytes": 2470,
+      "SHA256": "2DD0342E0C90AC0B2856E15D3A465FC74A5386EBC04E453ADFEB8A32EE4B004B"
+    },
+    {
+      "Name": "NovaPerfect.key",
+      "Bytes": 1362,
+      "SHA256": "49BA583CCCB486E070C19C9DB0DC5E20EB45D2DB1D8D85F82D32E523CDF6F8DE"
+    },
+    {
+      "Name": "NovaPerfect.ma0",
+      "Bytes": 10762,
+      "SHA256": "37752360E494DAE1161F9ECA2E682C267E0B3A85B4DFB7EB4C4FA7342BC30DAC"
+    },
+    {
+      "Name": "NovaPerfect.ma1",
+      "Bytes": 149648,
+      "SHA256": "E58CF2C67527F0D04D8DC463F70F47385970F2754A2F99802672465F3517149F"
+    },
+    {
+      "Name": "NovaPerfect.map",
+      "Bytes": 24,
+      "SHA256": "AFDE72AD3D739A72DBB0CFE6CC7CD40FB025ECC4E28D8F09F0827AF62AFE7292"
+    }
+  ],
+  "Validation": {
+    "Result": "PASS",
+    "Character": "NovaPerfect",
+    "Bytes": 2470,
+    "SHA256": "2DD0342E0C90AC0B2856E15D3A465FC74A5386EBC04E453ADFEB8A32EE4B004B",
+    "Gold": 990000,
+    "PersonalStashGold": 2500000,
+    "BeltFullPurple": 16,
+    "SpentSkills": 108.0,
+    "UnspentSkills": 2,
+    "Skillers": 6,
+    "RenewedSunderIndex": 434,
+    "ColossalJewels": 1,
+    "PortalBookLocation": "Inventory",
+    "InventoryCubeStashBoundsAndOverlap": true,
+    "HeaderChecksumAndRoundtrip": true
   },
-  {
-    "Name": "NovaPerfect.d2s",
-    "Bytes": 2477,
-    "SHA256": "DA10BAABE657663CAE55CE6BD673BBAB5ABC0922ABC1C0FEB08F47E3875CD51B"
+  "Supply": {
+    "Date": "2026-10-19T11:01:50.4508417+08:00",
+    "Character": "NovaPerfect",
+    "Source": "E:\\game\\d2rsaves\\新星电法\\历史归档\\20261019-110123-实测归档补满金币前\\当前国服快照\\NovaPerfect.d2s",
+    "Output": "E:\\game\\d2rsaves\\新星电法\\制作版本\\v3-实测回存补满金币\\NovaPerfect.d2s",
+    "SourceSHA256": "5B4C7964A5628872BD779CA082480C652D60D6912C0E70CDC5CBB005700BB326",
+    "SHA256": "2DD0342E0C90AC0B2856E15D3A465FC74A5386EBC04E453ADFEB8A32EE4B004B",
+    "Bytes": 2470,
+    "GoldBefore": 15226,
+    "GoldAfter": 990000,
+    "PersonalStashGoldBefore": 2409801,
+    "PersonalStashGoldAfter": 2500000,
+    "GoldLimitSource": "https://classic.battle.net/diablo2exp/basics/",
+    "BeltBefore": 15,
+    "BeltAfter": 16,
+    "OnlyGoldAndBeltChanged": true,
+    "HeaderLengthChecksum": true,
+    "WrittenRoundtrip": true,
+    "SharedStashTouched": false,
+    "LatestSkillsEquipmentInventoryAndProgressPreserved": true
   },
-  {
-    "Name": "NovaPerfect.key",
-    "Bytes": 1362,
-    "SHA256": "49BA583CCCB486E070C19C9DB0DC5E20EB45D2DB1D8D85F82D32E523CDF6F8DE"
+  "Delivery": {
+    "Date": "2026-10-19T11:03:58.6009+08:00",
+    "Character": "NovaPerfect",
+    "Source": "E:\\game\\d2rsaves\\新星电法\\实测定稿\\NovaPerfect.d2s",
+    "Destination": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)\\NovaPerfect.d2s",
+    "Bytes": 2470,
+    "SHA256": "2DD0342E0C90AC0B2856E15D3A465FC74A5386EBC04E453ADFEB8A32EE4B004B",
+    "PreviousGameSHA256": "5B4C7964A5628872BD779CA082480C652D60D6912C0E70CDC5CBB005700BB326",
+    "BackupDirectory": "E:\\game\\d2rsaves\\新星电法\\历史归档\\20261019-110123-实测归档补满金币前",
+    "BackedUpSameNameFiles": 6,
+    "SourceHashesRecheckedBeforeWrite": true,
+    "SourceTargetHashesMatch": true,
+    "ByteForByteMatch": true,
+    "CopiedFiles": [
+      "NovaPerfect.d2s"
+    ],
+    "CompanionFilesUnchanged": true,
+    "SharedStashTouched": false,
+    "Authorization": "User requested both characters gold refill, archive and one new PR; existing permission allows sync while these characters are not being played",
+    "GameProcessRunning": true
   },
-  {
-    "Name": "NovaPerfect.ma0",
-    "Bytes": 10762,
-    "SHA256": "37752360E494DAE1161F9ECA2E682C267E0B3A85B4DFB7EB4C4FA7342BC30DAC"
-  },
-  {
-    "Name": "NovaPerfect.ma1",
-    "Bytes": 103656,
-    "SHA256": "DD1A37021A8E4BBEE5C9D2ABC2A87D93C552266162E9823D745C146F682A9E8E"
-  },
-  {
-    "Name": "NovaPerfect.map",
-    "Bytes": 24,
-    "SHA256": "AFDE72AD3D739A72DBB0CFE6CC7CD40FB025ECC4E28D8F09F0827AF62AFE7292"
-  }
-]
+  "UserFeedback": [
+    "保留最新国服实测加点、装备、库存和地图",
+    "本轮只改金币与腰带，未重做BD"
+  ]
+}

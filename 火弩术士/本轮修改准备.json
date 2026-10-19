@@ -1,0 +1,39 @@
+{
+  "CreatedAt": "2026-10-19T10:34:08.9771324+08:00",
+  "HistoryDirectory": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-103408-实测回存烧火棍与精神盾前",
+  "SnapshotDirectory": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-103408-实测回存烧火棍与精神盾前\\当前国服快照",
+  "GameDirectory": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)",
+  "Files": [
+    {
+      "Name": "FireHexBow.ctl",
+      "Bytes": 900,
+      "ModifiedUtc": "2026-10-19T02:30:27.7538615Z",
+      "SHA256": "F6CF3B5CC873430864F9BD6D9C7CE48B7F67C5C9AF4B946709254C247F32FE04"
+    },
+    {
+      "Name": "FireHexBow.d2s",
+      "Bytes": 2874,
+      "ModifiedUtc": "2026-10-19T02:30:27.7507463Z",
+      "SHA256": "15034D82FA4220ABEC27D91984EC0EC390879D1E629BCAECB635FD47F971815B"
+    },
+    {
+      "Name": "FireHexBow.key",
+      "Bytes": 1362,
+      "ModifiedUtc": "2026-10-19T02:20:16.8361966Z",
+      "SHA256": "79E22E4B22CD58998B0416CF0BCEFC2762CD5688198B4363EE9217A186E3932B"
+    },
+    {
+      "Name": "FireHexBow.ma0",
+      "Bytes": 29286,
+      "ModifiedUtc": "2026-10-19T02:30:27.9126825Z",
+      "SHA256": "75D4576DEF8FB9698DF0BB72597B39F0DBAF7AE3CB37CF64FE1751287EBF8BE6"
+    },
+    {
+      "Name": "FireHexBow.map",
+      "Bytes": 24,
+      "ModifiedUtc": "2026-10-19T01:55:16.3245350Z",
+      "SHA256": "A0AF7D5258780272F1580B3227F877A9A5DEC33A1EF92E6CBCA9648114419F40"
+    }
+  ],
+  "Authorization": "User permits both CN and archive writes while this offline character is not being played, including while game is running"
+}

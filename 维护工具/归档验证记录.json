@@ -1,0 +1,70 @@
+{
+  "Date": "2026-10-19T11:07:56.2710605+08:00",
+  "CurrentCharacters": [
+    {
+      "Result": "PASS",
+      "Character": "FireHexBow",
+      "Bytes": 3100,
+      "SHA256": "2C2B2C9ADE04CEB48543F2A268A42A8812CF9DEE89039DCC18C5812E057FEA6D",
+      "Gold": 990000,
+      "PersonalStashGold": 2500000,
+      "BeltFullPurple": 16,
+      "SpentSkills": 103.0,
+      "UnspentSkills": 7,
+      "Skillers": 7,
+      "RenewedSunderIndex": 433,
+      "ColossalJewels": 1,
+      "PortalBookLocation": "Stash",
+      "InventoryCubeStashBoundsAndOverlap": true,
+      "HeaderChecksumAndRoundtrip": true
+    },
+    {
+      "Result": "PASS",
+      "Character": "NovaPerfect",
+      "Bytes": 2470,
+      "SHA256": "2DD0342E0C90AC0B2856E15D3A465FC74A5386EBC04E453ADFEB8A32EE4B004B",
+      "Gold": 990000,
+      "PersonalStashGold": 2500000,
+      "BeltFullPurple": 16,
+      "SpentSkills": 108.0,
+      "UnspentSkills": 2,
+      "Skillers": 6,
+      "RenewedSunderIndex": 434,
+      "ColossalJewels": 1,
+      "PortalBookLocation": "Inventory",
+      "InventoryCubeStashBoundsAndOverlap": true,
+      "HeaderChecksumAndRoundtrip": true
+    }
+  ],
+  "FireSwitchAndCharges": {
+    "Result": "PASS",
+    "Character": "FireHexBow",
+    "Spirit": "Ethereal Monarch, 35 FCR/112 mana/8 absorb",
+    "BaseStrength": 17,
+    "EquipmentStrength": 129,
+    "FinalStrength": 146,
+    "Vitality": 523,
+    "EnchantLevel": 23,
+    "EnchantCharges": "19/20",
+    "BeltFullPurple": 16,
+    "RoundtripAndChecksum": true
+  },
+  "Portal": {
+    "Result": "PASS",
+    "Character": "FireHexBow",
+    "SlingUniqueIndex": 415,
+    "ExpectedSkill": 411,
+    "ExpectedSkillName": "Townportal O Skill",
+    "ActualSkill": 411,
+    "Level": 1,
+    "NoInternalPortalBindings": true
+  },
+  "OriginalWrongPortalRejected": true,
+  "HistoricalSavesHeaderChecksumRoundtrip": 32,
+  "GoldBeltReproductionPassed": true,
+  "CurrentManifestsAndIndexPathsPassed": true,
+  "AllJsonAndPowerShellSyntaxPassed": true,
+  "BothCNAndArchiveHashesMatch": true,
+  "Scope": "Historical saves checked for binary integrity only; original v1 portal remains intentionally archived as known faulty history",
+  "MergeStatus": "Awaiting human PR review"
+}

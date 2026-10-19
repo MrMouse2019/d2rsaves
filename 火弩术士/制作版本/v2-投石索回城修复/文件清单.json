@@ -1,0 +1,27 @@
+{
+  "Files": [
+    {
+      "File": "FireHexBow.d2s",
+      "Bytes": 2522,
+      "SHA256": "0B3EAC6212D941E173A361D80FDA9259B84053D06C1111697334F51910F5DB63"
+    },
+    {
+      "File": "FireHexBow.key",
+      "Bytes": 1362,
+      "SHA256": "ABF47DC4DDB74CA7D55BFCDB83AA3DF8A2A166073EE9B0A277A496E8F01FE654"
+    },
+    {
+      "File": "FireHexBow.ma0",
+      "Bytes": 15626,
+      "SHA256": "D25D2E58DEDBA56C22FE2F73545653060E0C07C20CA558EF98F8227218961A59"
+    },
+    {
+      "File": "FireHexBow.map",
+      "Bytes": 24,
+      "SHA256": "A0AF7D5258780272F1580B3227F877A9A5DEC33A1EF92E6CBCA9648114419F40"
+    }
+  ],
+  "SourceSnapshot": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-100858-投石索技能编号修复前",
+  "CompanionFilesUnchanged": true,
+  "CopiedToChineseGameFolder": false
+}

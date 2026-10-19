@@ -1,0 +1,36 @@
+{
+  "Character": "FireHexBow",
+  "Class": "Warlock",
+  "Level": 99,
+  "Format": 105,
+  "Source": "Latest landed CN snapshot",
+  "SourceSHA256": "8DABCD4731143880F962EE902BA6ADF25F0EC15BC813440516C985B63038974F",
+  "File": "FireHexBow.d2s",
+  "Bytes": 2522,
+  "SHA256": "0B3EAC6212D941E173A361D80FDA9259B84053D06C1111697334F51910F5DB63",
+  "Fix": {
+    "Item": "Sling",
+    "UniqueIndex": 415,
+    "StatId": 97,
+    "OldSkillId": 359,
+    "OldSkillName": "TownPortal",
+    "NewSkillId": 411,
+    "NewSkillName": "Townportal O Skill",
+    "Level": 1,
+    "SkillBindingsChanged": 0
+  },
+  "Validation": {
+    "RoundtripIdentical": true,
+    "DeclaredLength": true,
+    "Checksum": true,
+    "RevertingFixReproducesSourceExactly": true,
+    "OtherItemsStatsKeysAndProgressUnchanged": true,
+    "InGameCrashRetest": "Pending user test",
+    "CopiedToChineseGameFolder": false
+  },
+  "CurrentSnapshot": {
+    "SkillPointsSpent": 101.0,
+    "SkillPointsUnspent": 9,
+    "BeltPotions": 16
+  }
+}
