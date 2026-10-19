@@ -1,0 +1,138 @@
+{
+  "RecordedDate": "2026-10-19",
+  "Timezone": "Asia/Shanghai",
+  "PriorConversation": "codex://threads/01a14f0a-89c9-7962-b9a8-6fa46803e45e",
+  "ReferenceVideo": "https://www.bilibili.com/video/BV1ngYK6iEDu",
+  "VideoContentsRead": false,
+  "Editor": "https://d2runewizard.com/hero-editor",
+  "Library": "NuGet D2SSharp 0.0.24",
+  "LibrarySHA256": "333C325929D3970FACBC646E0479A7B5BCECCB98AB71D8D41B8EF7ED6C127860",
+  "LibraryRepositoryCommit": "baf955ae31da7954ed58217112e592f5f1892b6d",
+  "Sources": [
+    {
+      "File": "数据表/armor.txt",
+      "Bytes": 81583,
+      "SHA256": "734872B6DDE85073C6EBAF4199EC4BD2B30EFCBF9F0E60E381AF2E22662A1B4F",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/armor.txt"
+    },
+    {
+      "File": "数据表/Character.cs",
+      "Bytes": 5971,
+      "SHA256": "16D9C620E6631B2BE89E9F9F00BD5B1DA193417E95988AB4DE42C199660504E2",
+      "Source": "https://raw.githubusercontent.com/ResurrectedTrader/D2SSharp/baf955ae31da7954ed58217112e592f5f1892b6d/src/D2SSharp/Model/Character.cs"
+    },
+    {
+      "File": "数据表/charstats.txt",
+      "Bytes": 3985,
+      "SHA256": "4F9E9B670727634298AE562753966BAAB7EAE701CEEB4EDD159BA10E18E899C2",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/charstats.txt"
+    },
+    {
+      "File": "数据表/experience.txt",
+      "Bytes": 8007,
+      "SHA256": "7A3676C71F6984E6BAC6E7C2FB8F26FB1A2F876E90EA9A875915F3C2519D61B2",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/experience.txt"
+    },
+    {
+      "File": "数据表/ItemQualityData.cs",
+      "Bytes": 12780,
+      "SHA256": "6DC0DC1A9C62529A5B924E86A57563589A4B5F54E896C454D2D1BD03E99C22D3",
+      "Source": "https://raw.githubusercontent.com/ResurrectedTrader/D2SSharp/baf955ae31da7954ed58217112e592f5f1892b6d/src/D2SSharp/Model/ItemQualityData.cs"
+    },
+    {
+      "File": "数据表/itemstatcost.txt",
+      "Bytes": 40068,
+      "SHA256": "99960B46E1963B20FA120BD4D1F77E4B28138330CCEC65C7FAB0BFD3DB6FD8E8",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/itemstatcost.txt"
+    },
+    {
+      "File": "数据表/magicprefix.txt",
+      "Bytes": 59837,
+      "SHA256": "3CF2B5F730D5B93388146ACDB6E2A7CFFB0AA0BF23E2C95B2D80D00841720381",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/magicprefix.txt"
+    },
+    {
+      "File": "数据表/magicsuffix.txt",
+      "Bytes": 68312,
+      "SHA256": "A697A051D988C78CBBBC8FE30D565CF473989817CE4D8A2BB08A321E2BC15C43",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/magicsuffix.txt"
+    },
+    {
+      "File": "数据表/PlayerStats.cs",
+      "Bytes": 4430,
+      "SHA256": "C0B8D7A6A6B09F8B937E3A0E70509FFE01DA3F6D8619D30A9DBC0DD915D108F4",
+      "Source": "https://raw.githubusercontent.com/ResurrectedTrader/D2SSharp/baf955ae31da7954ed58217112e592f5f1892b6d/src/D2SSharp/Model/PlayerStats.cs"
+    },
+    {
+      "File": "数据表/properties.txt",
+      "Bytes": 37952,
+      "SHA256": "382528362751C68646E98D4A296C357276AB9A1EE0B7053C29E5DF6B6252A1EF",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/properties.txt"
+    },
+    {
+      "File": "数据表/QuestSection.cs",
+      "Bytes": 2499,
+      "SHA256": "04F145E10C727A4D7CCE985059BCDFF707DE0078495F876599F67B41FA0C7072",
+      "Source": "https://raw.githubusercontent.com/ResurrectedTrader/D2SSharp/baf955ae31da7954ed58217112e592f5f1892b6d/src/D2SSharp/Model/QuestSection.cs"
+    },
+    {
+      "File": "数据表/runes.txt",
+      "Bytes": 25003,
+      "SHA256": "4822D163649517A6A0A552E86B20B50ACCDE0EFE450ECE5A9FB986308582F4C8",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/runes.txt"
+    },
+    {
+      "File": "数据表/setitems.txt",
+      "Bytes": 31325,
+      "SHA256": "1AA7E5DBB16E27442634A630489B3EEEBC37F568BF90A1AFA761EA1E54557DB4",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/setitems.txt"
+    },
+    {
+      "File": "数据表/skilldesc.txt",
+      "Bytes": 95092,
+      "SHA256": "CDF11C518EAB9FE678616A237FC64B28CEA5EA51649EC641A14E09B06EA34B38",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/skilldesc.txt"
+    },
+    {
+      "File": "数据表/skills.txt",
+      "Bytes": 270115,
+      "SHA256": "56944CB6B6B0F3C57F7B690977987A732AFEAFC961FA9DC969E7796E54C93F3F",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/skills.txt"
+    },
+    {
+      "File": "数据表/SkillsSection.cs",
+      "Bytes": 3109,
+      "SHA256": "2B80E5EDB01F27BE2342F70189AEC382C44C077623119C82A91581C641C8C285",
+      "Source": "https://raw.githubusercontent.com/ResurrectedTrader/D2SSharp/baf955ae31da7954ed58217112e592f5f1892b6d/src/D2SSharp/Model/SkillsSection.cs"
+    },
+    {
+      "File": "数据表/uniqueitems.txt",
+      "Bytes": 84464,
+      "SHA256": "C9E01849630742F630BABB0BDD33B2E0F5689BD0E13E71F1DA69F8E3E8D238A2",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/uniqueitems.txt"
+    },
+    {
+      "File": "数据表/weapons.txt",
+      "Bytes": 119607,
+      "SHA256": "B0890901F87FD42FCB474CE835B6E1A9FE1E66DBAB4E7C2F236A3D9C3224F923",
+      "Source": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/weapons.txt"
+    }
+  ],
+  "Screenshots": [
+    {
+      "File": "技能截图.png",
+      "SHA256": "EC89CF43C579F57BE8F29659EF71217D84370E9A879486F13F5AC7FDB19CB39D"
+    },
+    {
+      "File": "装备截图.png",
+      "SHA256": "0D77BD8CD92F42B0545AC7C616E6ECD308C32163D29E81B09978DA1EBDA50B12"
+    }
+  ],
+  "WebChecks": [
+    "https://d2runewizard.com/uniques/Hellwarden%27s%20Will",
+    "https://d2runewizard.com/uniques/Guardian%27s%20Light",
+    "https://d2runewizard.com/uniques/Renewed%20Flame%20Rift",
+    "https://d2runewizard.com/uniques/Sling",
+    "https://d2.blizzard.cn/news/24243863/index.html"
+  ]
+}

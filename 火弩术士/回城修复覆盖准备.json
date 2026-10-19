@@ -1,0 +1,40 @@
+{
+  "PreparedAt": "2026-10-19T10:14:29.3284657+08:00",
+  "HistoryDirectory": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-101429-回城修复国服覆盖前",
+  "CNDirectory": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)",
+  "VersionDirectory": "E:\\game\\d2rsaves\\火弩术士\\制作版本\\v3-最新进度回城修复",
+  "SourceFiles": [
+    {
+      "Name": "FireHexBow.ctl",
+      "Bytes": 900,
+      "ModifiedUtc": "2026-10-19T02:13:25.6776825Z",
+      "SHA256": "F6CF3B5CC873430864F9BD6D9C7CE48B7F67C5C9AF4B946709254C247F32FE04"
+    },
+    {
+      "Name": "FireHexBow.d2s",
+      "Bytes": 2525,
+      "ModifiedUtc": "2026-10-19T02:13:25.6735073Z",
+      "SHA256": "9351A7D64A0C406A0B17176E2A65E702B942357DEE0C36231D6D09FE71EA7884"
+    },
+    {
+      "Name": "FireHexBow.key",
+      "Bytes": 1362,
+      "ModifiedUtc": "2026-10-19T01:57:50.9615588Z",
+      "SHA256": "ABF47DC4DDB74CA7D55BFCDB83AA3DF8A2A166073EE9B0A277A496E8F01FE654"
+    },
+    {
+      "Name": "FireHexBow.ma0",
+      "Bytes": 22628,
+      "ModifiedUtc": "2026-10-19T02:13:08.8016953Z",
+      "SHA256": "B9798784D7757C4C8B799C3C188FCE59323DE298A603243C76AAF380F3650A1D"
+    },
+    {
+      "Name": "FireHexBow.map",
+      "Bytes": 24,
+      "ModifiedUtc": "2026-10-19T01:55:16.324535Z",
+      "SHA256": "A0AF7D5258780272F1580B3227F877A9A5DEC33A1EF92E6CBCA9648114419F40"
+    }
+  ],
+  "PreparedSHA256": "AC3DD9BE1A987BF6CD347F15C0FAA5451CA4AC2BFF80E7061BEFCA320A1F4E08",
+  "Ready": true
+}

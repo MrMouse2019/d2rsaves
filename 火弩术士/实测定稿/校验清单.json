@@ -1,0 +1,99 @@
+{
+  "Date": "2026-10-19T11:06:10.2217813+08:00",
+  "Status": "用户认可实测归档；PR待review合入",
+  "Character": "FireHexBow",
+  "Files": [
+    {
+      "Name": "FireHexBow.ctl",
+      "Bytes": 900,
+      "SHA256": "F6CF3B5CC873430864F9BD6D9C7CE48B7F67C5C9AF4B946709254C247F32FE04"
+    },
+    {
+      "Name": "FireHexBow.d2s",
+      "Bytes": 3100,
+      "SHA256": "2C2B2C9ADE04CEB48543F2A268A42A8812CF9DEE89039DCC18C5812E057FEA6D"
+    },
+    {
+      "Name": "FireHexBow.key",
+      "Bytes": 1362,
+      "SHA256": "79E22E4B22CD58998B0416CF0BCEFC2762CD5688198B4363EE9217A186E3932B"
+    },
+    {
+      "Name": "FireHexBow.ma0",
+      "Bytes": 32352,
+      "SHA256": "5B5CEE404C80EBE868F6C5F99F30158D1F29EA1137C09EFD40EA1B96456E0305"
+    },
+    {
+      "Name": "FireHexBow.map",
+      "Bytes": 24,
+      "SHA256": "A0AF7D5258780272F1580B3227F877A9A5DEC33A1EF92E6CBCA9648114419F40"
+    }
+  ],
+  "Validation": {
+    "Result": "PASS",
+    "Character": "FireHexBow",
+    "Bytes": 3100,
+    "SHA256": "2C2B2C9ADE04CEB48543F2A268A42A8812CF9DEE89039DCC18C5812E057FEA6D",
+    "Gold": 990000,
+    "PersonalStashGold": 2500000,
+    "BeltFullPurple": 16,
+    "SpentSkills": 103.0,
+    "UnspentSkills": 7,
+    "Skillers": 7,
+    "RenewedSunderIndex": 433,
+    "ColossalJewels": 1,
+    "PortalBookLocation": "Stash",
+    "InventoryCubeStashBoundsAndOverlap": true,
+    "HeaderChecksumAndRoundtrip": true
+  },
+  "Supply": {
+    "Date": "2026-10-19T11:01:50.3619446+08:00",
+    "Character": "FireHexBow",
+    "Source": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-110123-实测归档补满金币前\\当前国服快照\\FireHexBow.d2s",
+    "Output": "E:\\game\\d2rsaves\\火弩术士\\实测定稿\\FireHexBow.d2s",
+    "SourceSHA256": "E26E3AF3DBEC8536FE5BCE9628C4A823570C267792111281CF68E2C62ACC4499",
+    "SHA256": "2C2B2C9ADE04CEB48543F2A268A42A8812CF9DEE89039DCC18C5812E057FEA6D",
+    "Bytes": 3100,
+    "GoldBefore": 0,
+    "GoldAfter": 990000,
+    "PersonalStashGoldBefore": 2375345,
+    "PersonalStashGoldAfter": 2500000,
+    "GoldLimitSource": "https://classic.battle.net/diablo2exp/basics/",
+    "BeltBefore": 15,
+    "BeltAfter": 16,
+    "OnlyGoldAndBeltChanged": true,
+    "HeaderLengthChecksum": true,
+    "WrittenRoundtrip": true,
+    "SharedStashTouched": false,
+    "LatestSkillsEquipmentInventoryAndProgressPreserved": true
+  },
+  "Delivery": {
+    "Date": "2026-10-19T11:03:58.5078944+08:00",
+    "Character": "FireHexBow",
+    "Source": "E:\\game\\d2rsaves\\火弩术士\\实测定稿\\FireHexBow.d2s",
+    "Destination": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)\\FireHexBow.d2s",
+    "Bytes": 3100,
+    "SHA256": "2C2B2C9ADE04CEB48543F2A268A42A8812CF9DEE89039DCC18C5812E057FEA6D",
+    "PreviousGameSHA256": "E26E3AF3DBEC8536FE5BCE9628C4A823570C267792111281CF68E2C62ACC4499",
+    "BackupDirectory": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-110123-实测归档补满金币前",
+    "BackedUpSameNameFiles": 5,
+    "SourceHashesRecheckedBeforeWrite": true,
+    "SourceTargetHashesMatch": true,
+    "ByteForByteMatch": true,
+    "CopiedFiles": [
+      "FireHexBow.d2s"
+    ],
+    "CompanionFilesUnchanged": true,
+    "SharedStashTouched": false,
+    "Authorization": "User requested both characters gold refill, archive and one new PR; existing permission allows sync while these characters are not being played",
+    "GameProcessRunning": true
+  },
+  "UserFeedback": [
+    "用户视频装备列表和加点截图作为制作依据",
+    "用户自行加点使污秽魔链接4到5；103点投入7点剩余",
+    "投石索回城技能359误写导致崩溃，修复为411，用户复测认可",
+    "输出强，8PP低抗电鬼等高伤害怪容易秒杀，风险保留",
+    "投石索可按选择省回城书，技能板需1x3连续空位",
+    "默认背包包含方块双书钥匙火炬毁灭破免技能板补充小符；本人物保留用户7板回城书置仓库的布局"
+  ]
+}

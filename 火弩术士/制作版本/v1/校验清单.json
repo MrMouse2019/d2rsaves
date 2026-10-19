@@ -1,0 +1,113 @@
+{
+  "Character": "FireHexBow",
+  "Class": "Warlock",
+  "Level": 99,
+  "Format": 105,
+  "GameVersion": "Reign of the Warlock v3.0+",
+  "File": "FireHexBow.d2s",
+  "Bytes": 2536,
+  "SHA256": "A136C8E903C14CF9E8FAA80A3DC3188A1F957F8AC15536379C08A90717763E5C",
+  "Validation": {
+    "Assertions": 498,
+    "Header": true,
+    "DeclaredLength": true,
+    "Checksum": true,
+    "StoredChecksum": 793723797,
+    "ComputedChecksum": 793723797,
+    "RoundtripIdentical": true,
+    "AffixAndSocketAudit": true,
+    "InventoryNoOverlap": true,
+    "UniqueSeeds": true,
+    "WearOrderVerified": true,
+    "EditorReload": "Not verified: browser timed out",
+    "InGameTest": "Pending user test",
+    "CopiedToChineseGameFolder": true
+  },
+  "Skills": {
+    "Chaos": 1,
+    "Eldritch": 66,
+    "Demon": 34,
+    "Spent": 101,
+    "Unspent": 9
+  },
+  "Attributes": {
+    "Strength": 15,
+    "Dexterity": 25,
+    "Energy": 20,
+    "Vitality": 525,
+    "Unspent": 0,
+    "FinalStrengthWithoutBuff": 144,
+    "FinalDexterityWithoutBuff": 95
+  },
+  "Equipment": {
+    "ColossalJewels": 1,
+    "ColossalJewel": "Guardian's Light, perfect, in Hellwarden's Will",
+    "FireFacet": "5/5 death facet in Demon Machine",
+    "CasterAmulet": "2 Warlock / 20 FCR / 60 life / 20 mana / 10 regen / 20 all resist; 4 random affixes plus caster recipe",
+    "RareRing": "10 FCR / 6 mana leech / 90 mana / 40 life / 11 all resist / 30 fire resist",
+    "CTA": "Crystal Sword, 6/6/4",
+    "Shield": "Ethereal Lidless Wall",
+    "Boots": "Horazon's Legacy",
+    "Pierce": 99
+  },
+  "Charms": {
+    "EldritchLifeSkillers": 6,
+    "SkillerLife": 45,
+    "RenewedSunderUniqueIndex": 433,
+    "RenewedSunderBase": "cs2",
+    "SunderRolls": [
+      "-70 own fire resist",
+      "-10 enemy fire resist",
+      "65 life",
+      "24 FHR",
+      "25 MF",
+      "10 physical damage reduction"
+    ],
+    "SmallCharms": [
+      "3 x 5 all resist / 5 FHR",
+      "4 x 11 fire resist / 20 life"
+    ]
+  },
+  "Inventory": {
+    "UsedCells": 39,
+    "FreeCells": 1,
+    "FreeCell": "7,3",
+    "CubeAndBothBooks": true,
+    "FullRejuvenationBelt": 16,
+    "EquippedBolts": 500,
+    "SpareBoltStacksInCube": 2,
+    "CubeFreeCells": 6
+  },
+  "Thresholds": {
+    "MainFCR": 80,
+    "FCRThreshold": 75,
+    "MainFHR": 39,
+    "HellResistsWithoutTemporaryBuff": {
+      "Cold": 16,
+      "Poison": 16,
+      "Fire": 20,
+      "Lightning": 16
+    },
+    "MagicResist": 30,
+    "EnemyFireResistanceReduction": 23,
+    "EnemyMagicResistanceReduction": 23,
+    "IASFromEquipment": 20,
+    "AttackFrames": "Requires game verification with Hex Purge and demon aura"
+  },
+  "Mercenary": {
+    "Act": 2,
+    "Aura": "Prayer",
+    "Level": 98,
+    "Equipment": [
+      "Ethereal superior Giant Thresher Insight",
+      "Ethereal superior Bone Visage Cure",
+      "Ethereal superior Archon Plate Fortitude"
+    ]
+  },
+  "Source": "Frozen archived format/equipment donor; class, name, stats, skills, inventory, preview and summons rebuilt; no live CN files read or overwritten",
+  "Delivery": {
+    "RecordedAt": "2026-10-19T09:51:31.4571092+08:00",
+    "Record": "火弩术士/国服导入校验.json",
+    "Note": "Historical delivery verification; user gameplay can subsequently change the game copy."
+  }
+}

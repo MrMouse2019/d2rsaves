@@ -1,0 +1,102 @@
+{
+  "Character": "FireHexBow",
+  "Level": 99,
+  "Format": 105,
+  "SourceSHA256": "15034D82FA4220ABEC27D91984EC0EC390879D1E629BCAECB635FD47F971815B",
+  "File": "FireHexBow.d2s",
+  "Bytes": 3117,
+  "SHA256": "39DC5DCA9A961437F6D8826B839CA2BDC8120AD8F47EA9F07F5031669C308FAC",
+  "Changes": {
+    "Spirit": {
+      "Seed": 4109323509,
+      "Base": "Ethereal superior Monarch",
+      "RunewordId": 20635,
+      "StrengthRequirement": 146,
+      "FCR": 35,
+      "Mana": 112,
+      "MagicAbsorb": 8,
+      "Reference": "新星电法/制作版本/v1/NovaPerfect.d2s",
+      "ReferenceSHA256": "AD5D4327DBB5722F6ABE445DF4F9F1061BDA9EF6928E4B94FD12294C95617824"
+    },
+    "OldLidless": {
+      "Seed": 182204679,
+      "RetainedIn": "Personal stash",
+      "X": 3,
+      "Y": 2
+    },
+    "DemonLimb": {
+      "Seed": 3140461547,
+      "Code": "7sp",
+      "UniqueIndex": 296,
+      "EnchantSkillId": 52,
+      "EnchantLevel": 23,
+      "Charges": "20/20",
+      "Location": "Carried cube",
+      "X": 0,
+      "Y": 0,
+      "NonEthereal": true
+    },
+    "Attributes": {
+      "OldBaseStrength": 15,
+      "NewBaseStrength": 17,
+      "EquipmentStrength": 129,
+      "FinalStrength": 146,
+      "OldVitality": 525,
+      "NewVitality": 523,
+      "TransferredPoints": 2,
+      "BaseLifeDecrease": 6,
+      "BaseStaminaDecrease": 2
+    },
+    "Belt": {
+      "Before": 4,
+      "After": 16,
+      "Added": 12
+    }
+  },
+  "Validation": {
+    "RoundtripIdentical": true,
+    "UndoAllChangesReproducesSourceExactly": true,
+    "InventoryStashCubeBoundsAndOverlap": true,
+    "SkillsAndUserInventoryArrangementPreserved": true,
+    "CopiedToChineseGameFolder": true,
+    "InGameTest": "New switch shield and Enchant charges pending user test",
+    "HeaderLengthChecksumAndNewItemsVerifiedAfterRead": true,
+    "PortalSkill411RegressionPassed": true
+  },
+  "UserTest": {
+    "PlayerCount": 8,
+    "Damage": "Sufficient",
+    "Weakness": "Low resistances; easily killed by packs of Gloams",
+    "FullBuildApproved": false
+  },
+  "Preserved": {
+    "SkillsSpent": 103.0,
+    "UnspentSkills": 7,
+    "OriginalItemSeeds": true,
+    "CurrentHotkeysAndProgress": true
+  },
+  "Delivery": {
+    "Date": "2026-10-19T10:48:56.5332107+08:00",
+    "Character": "FireHexBow",
+    "Source": "E:\\game\\d2rsaves\\火弩术士\\制作版本\\v4-8PP回存烧火棍与精神盾\\FireHexBow.d2s",
+    "Destination": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)\\FireHexBow.d2s",
+    "Bytes": 3117,
+    "SHA256": "39DC5DCA9A961437F6D8826B839CA2BDC8120AD8F47EA9F07F5031669C308FAC",
+    "BackupDirectory": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-104839-重新覆盖v4前",
+    "BackedUpSameNameFiles": 5,
+    "PreviousGameSHA256": "67753B0AE3FEC6AC08FD6F4C59F1271509C3DD0AD569F841438A0CC51F1A6B24",
+    "GameProcessRunning": true,
+    "Authorization": "User explicitly requested overwrite after reviewing differences; prior permission allows game running while target offline character is not used",
+    "SourceHashesRecheckedBeforeWrite": true,
+    "SourceTargetHashesMatch": true,
+    "ByteForByteMatch": true,
+    "CopiedFiles": [
+      "FireHexBow.d2s"
+    ],
+    "CompanionFilesUnchanged": true,
+    "SharedStashTouched": false,
+    "InGameTest": "Pending user test",
+    "PostCopyCharacterValidation": "PASS: ethereal Spirit, Demon Limb level23 20/20, strength17/146, full belt16, portal411, roundtrip and checksum",
+    "LastVerifiedAt": "2026-10-19T10:49:13.0749964+08:00"
+  }
+}

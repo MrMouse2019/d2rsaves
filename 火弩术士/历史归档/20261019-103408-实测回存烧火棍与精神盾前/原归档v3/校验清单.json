@@ -1,0 +1,174 @@
+{
+  "Character": "FireHexBow",
+  "Class": "Warlock",
+  "Level": 99,
+  "Format": 105,
+  "Source": "Latest landed CN snapshot",
+  "SourceSHA256": "9351A7D64A0C406A0B17176E2A65E702B942357DEE0C36231D6D09FE71EA7884",
+  "File": "FireHexBow.d2s",
+  "Bytes": 2987,
+  "SHA256": "AC3DD9BE1A987BF6CD347F15C0FAA5451CA4AC2BFF80E7061BEFCA320A1F4E08",
+  "Fix": {
+    "Item": "Sling",
+    "UniqueIndex": 415,
+    "StatId": 97,
+    "OldSkillId": 359,
+    "OldSkillName": "TownPortal",
+    "NewSkillId": 411,
+    "NewSkillName": "Townportal O Skill",
+    "Level": 1,
+    "SkillBindingsChanged": 0
+  },
+  "Validation": {
+    "RoundtripIdentical": true,
+    "DeclaredLength": true,
+    "Checksum": true,
+    "InGameCrashRetest": "Pending user test",
+    "CopiedToChineseGameFolder": true,
+    "RemovingAddedCharmsReproducesPreSupplyCheckpointExactly": true,
+    "StoredItemBoundsAndOverlapValid": true,
+    "AddedCharmSeedsUnique": true,
+    "OnlyPortalBeltAndRequestedStashCharmsChanged": true
+  },
+  "CurrentSnapshot": {
+    "SkillPointsSpent": 101.0,
+    "SkillPointsUnspent": 9,
+    "BeltPotions": 15
+  },
+  "BeltRefill": {
+    "Before": 15,
+    "After": 16,
+    "AddedFullRejuvenationPotions": 1,
+    "Slot": 12,
+    "Reason": "Standing requirement: all delivered characters have a full rejuvenation belt"
+  },
+  "StorageSupplies": {
+    "PersonalStashOnly": true,
+    "GrandCharms": 4,
+    "SmallCharms": 12,
+    "UsedCells": 24,
+    "InventoryLayoutUnchanged": true,
+    "TownPortalTomeRetained": true,
+    "Charms": [
+      {
+        "Seed": 1313353754,
+        "Code": "cm3",
+        "Kind": "Eldritch1/Life45",
+        "X": 0,
+        "Y": 0
+      },
+      {
+        "Seed": 1227739737,
+        "Code": "cm3",
+        "Kind": "Eldritch1/Life45",
+        "X": 1,
+        "Y": 0
+      },
+      {
+        "Seed": 257516913,
+        "Code": "cm3",
+        "Kind": "Eldritch1/Life45",
+        "X": 2,
+        "Y": 0
+      },
+      {
+        "Seed": 2351230044,
+        "Code": "cm3",
+        "Kind": "Eldritch1/Life45",
+        "X": 3,
+        "Y": 0
+      },
+      {
+        "Seed": 1199785534,
+        "Code": "cm1",
+        "Kind": "Life20/AllResist5",
+        "X": 4,
+        "Y": 0
+      },
+      {
+        "Seed": 3654507868,
+        "Code": "cm1",
+        "Kind": "Life20/AllResist5",
+        "X": 5,
+        "Y": 0
+      },
+      {
+        "Seed": 1477278686,
+        "Code": "cm1",
+        "Kind": "Life20/AllResist5",
+        "X": 6,
+        "Y": 0
+      },
+      {
+        "Seed": 2515580366,
+        "Code": "cm1",
+        "Kind": "Life20/AllResist5",
+        "X": 7,
+        "Y": 0
+      },
+      {
+        "Seed": 1287309847,
+        "Code": "cm1",
+        "Kind": "Life20/FireResist11",
+        "X": 8,
+        "Y": 0
+      },
+      {
+        "Seed": 3590013797,
+        "Code": "cm1",
+        "Kind": "Life20/FireResist11",
+        "X": 9,
+        "Y": 0
+      },
+      {
+        "Seed": 3437455688,
+        "Code": "cm1",
+        "Kind": "Life20/FireResist11",
+        "X": 4,
+        "Y": 1
+      },
+      {
+        "Seed": 2381702114,
+        "Code": "cm1",
+        "Kind": "Life20/FireResist11",
+        "X": 5,
+        "Y": 1
+      },
+      {
+        "Seed": 3847240508,
+        "Code": "cm1",
+        "Kind": "FHR5/AllResist5",
+        "X": 6,
+        "Y": 1
+      },
+      {
+        "Seed": 938017242,
+        "Code": "cm1",
+        "Kind": "FHR5/AllResist5",
+        "X": 7,
+        "Y": 1
+      },
+      {
+        "Seed": 3612003992,
+        "Code": "cm1",
+        "Kind": "FHR5/AllResist5",
+        "X": 8,
+        "Y": 1
+      },
+      {
+        "Seed": 3238195105,
+        "Code": "cm1",
+        "Kind": "FHR5/AllResist5",
+        "X": 9,
+        "Y": 1
+      }
+    ]
+  },
+  "Delivery": {
+    "Date": "2026-10-19T10:17:48.5158069+08:00",
+    "Source": "火弩术士/国服导入校验.json",
+    "SourceTargetHashMatched": true,
+    "CompanionFilesUnchanged": true,
+    "BackupDirectory": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-101429-回城修复国服覆盖前"
+  }
+}

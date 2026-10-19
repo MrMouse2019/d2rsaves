@@ -1,0 +1,21 @@
+{
+  "Date": "2026-10-19T11:01:50.4508417+08:00",
+  "Character": "NovaPerfect",
+  "Source": "E:\\game\\d2rsaves\\新星电法\\历史归档\\20261019-110123-实测归档补满金币前\\当前国服快照\\NovaPerfect.d2s",
+  "Output": "E:\\game\\d2rsaves\\新星电法\\制作版本\\v3-实测回存补满金币\\NovaPerfect.d2s",
+  "SourceSHA256": "5B4C7964A5628872BD779CA082480C652D60D6912C0E70CDC5CBB005700BB326",
+  "SHA256": "2DD0342E0C90AC0B2856E15D3A465FC74A5386EBC04E453ADFEB8A32EE4B004B",
+  "Bytes": 2470,
+  "GoldBefore": 15226,
+  "GoldAfter": 990000,
+  "PersonalStashGoldBefore": 2409801,
+  "PersonalStashGoldAfter": 2500000,
+  "GoldLimitSource": "https://classic.battle.net/diablo2exp/basics/",
+  "BeltBefore": 15,
+  "BeltAfter": 16,
+  "OnlyGoldAndBeltChanged": true,
+  "HeaderLengthChecksum": true,
+  "WrittenRoundtrip": true,
+  "SharedStashTouched": false,
+  "LatestSkillsEquipmentInventoryAndProgressPreserved": true
+}

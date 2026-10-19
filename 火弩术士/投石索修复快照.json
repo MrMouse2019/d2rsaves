@@ -1,0 +1,32 @@
+{
+  "Created": "2026-10-19T10:08:58.2668259+08:00",
+  "SnapshotDirectory": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-100858-投石索技能编号修复前",
+  "Source": "Latest landed CN FireHexBow files",
+  "ConsistentSnapshot": true,
+  "Files": [
+    {
+      "Name": "FireHexBow.d2s",
+      "Bytes": 2522,
+      "LastWriteTimeUtc": "2026-10-19T02:05:14.8038547Z",
+      "SHA256": "8DABCD4731143880F962EE902BA6ADF25F0EC15BC813440516C985B63038974F"
+    },
+    {
+      "Name": "FireHexBow.key",
+      "Bytes": 1362,
+      "LastWriteTimeUtc": "2026-10-19T01:57:50.9615588Z",
+      "SHA256": "ABF47DC4DDB74CA7D55BFCDB83AA3DF8A2A166073EE9B0A277A496E8F01FE654"
+    },
+    {
+      "Name": "FireHexBow.ma0",
+      "Bytes": 15626,
+      "LastWriteTimeUtc": "2026-10-19T02:01:58.0700587Z",
+      "SHA256": "D25D2E58DEDBA56C22FE2F73545653060E0C07C20CA558EF98F8227218961A59"
+    },
+    {
+      "Name": "FireHexBow.map",
+      "Bytes": 24,
+      "LastWriteTimeUtc": "2026-10-19T01:55:16.3245350Z",
+      "SHA256": "A0AF7D5258780272F1580B3227F877A9A5DEC33A1EF92E6CBCA9648114419F40"
+    }
+  ]
+}

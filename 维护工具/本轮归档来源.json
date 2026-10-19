@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "FireHexBow",
+    "BD": "火弩术士",
+    "History": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-110123-实测归档补满金币前",
+    "Snapshot": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-110123-实测归档补满金币前\\当前国服快照",
+    "Files": [
+      {
+        "Name": "FireHexBow.ctl",
+        "Bytes": 900,
+        "SHA256": "F6CF3B5CC873430864F9BD6D9C7CE48B7F67C5C9AF4B946709254C247F32FE04",
+        "LastWriteTime": "2026-10-19T10:55:25.7906216+08:00"
+      },
+      {
+        "Name": "FireHexBow.d2s",
+        "Bytes": 3086,
+        "SHA256": "E26E3AF3DBEC8536FE5BCE9628C4A823570C267792111281CF68E2C62ACC4499",
+        "LastWriteTime": "2026-10-19T10:55:25.7869066+08:00"
+      },
+      {
+        "Name": "FireHexBow.key",
+        "Bytes": 1362,
+        "SHA256": "79E22E4B22CD58998B0416CF0BCEFC2762CD5688198B4363EE9217A186E3932B",
+        "LastWriteTime": "2026-10-19T10:20:16.8361966+08:00"
+      },
+      {
+        "Name": "FireHexBow.ma0",
+        "Bytes": 32352,
+        "SHA256": "5B5CEE404C80EBE868F6C5F99F30158D1F29EA1137C09EFD40EA1B96456E0305",
+        "LastWriteTime": "2026-10-19T10:55:25.9054454+08:00"
+      },
+      {
+        "Name": "FireHexBow.map",
+        "Bytes": 24,
+        "SHA256": "A0AF7D5258780272F1580B3227F877A9A5DEC33A1EF92E6CBCA9648114419F40",
+        "LastWriteTime": "2026-10-19T09:55:16.3245350+08:00"
+      }
+    ],
+    "Output": "E:\\game\\d2rsaves\\火弩术士\\实测定稿"
+  },
+  {
+    "Name": "NovaPerfect",
+    "BD": "新星电法",
+    "History": "E:\\game\\d2rsaves\\新星电法\\历史归档\\20261019-110123-实测归档补满金币前",
+    "Snapshot": "E:\\game\\d2rsaves\\新星电法\\历史归档\\20261019-110123-实测归档补满金币前\\当前国服快照",
+    "Files": [
+      {
+        "Name": "NovaPerfect.ctl",
+        "Bytes": 900,
+        "SHA256": "8208A27A9EE589A0750A3A031432FF99B5B023DAB4DF9A19463B22271CA9801D",
+        "LastWriteTime": "2026-10-19T10:49:51.1273460+08:00"
+      },
+      {
+        "Name": "NovaPerfect.d2s",
+        "Bytes": 2460,
+        "SHA256": "5B4C7964A5628872BD779CA082480C652D60D6912C0E70CDC5CBB005700BB326",
+        "LastWriteTime": "2026-10-19T10:49:51.1215870+08:00"
+      },
+      {
+        "Name": "NovaPerfect.key",
+        "Bytes": 1362,
+        "SHA256": "49BA583CCCB486E070C19C9DB0DC5E20EB45D2DB1D8D85F82D32E523CDF6F8DE",
+        "LastWriteTime": "2026-10-18T23:35:49.5235890+08:00"
+      },
+      {
+        "Name": "NovaPerfect.ma0",
+        "Bytes": 10762,
+        "SHA256": "37752360E494DAE1161F9ECA2E682C267E0B3A85B4DFB7EB4C4FA7342BC30DAC",
+        "LastWriteTime": "2026-10-18T22:17:36.0348373+08:00"
+      },
+      {
+        "Name": "NovaPerfect.ma1",
+        "Bytes": 149648,
+        "SHA256": "E58CF2C67527F0D04D8DC463F70F47385970F2754A2F99802672465F3517149F",
+        "LastWriteTime": "2026-10-19T10:49:51.3233443+08:00"
+      },
+      {
+        "Name": "NovaPerfect.map",
+        "Bytes": 24,
+        "SHA256": "AFDE72AD3D739A72DBB0CFE6CC7CD40FB025ECC4E28D8F09F0827AF62AFE7292",
+        "LastWriteTime": "2026-10-18T22:39:05.5156112+08:00"
+      }
+    ],
+    "Output": "E:\\game\\d2rsaves\\新星电法\\制作版本\\v3-实测回存补满金币"
+  }
+]

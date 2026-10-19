@@ -1,0 +1,21 @@
+{
+  "Date": "2026-10-19T11:03:58.5078944+08:00",
+  "Character": "FireHexBow",
+  "Source": "E:\\game\\d2rsaves\\火弩术士\\实测定稿\\FireHexBow.d2s",
+  "Destination": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)\\FireHexBow.d2s",
+  "Bytes": 3100,
+  "SHA256": "2C2B2C9ADE04CEB48543F2A268A42A8812CF9DEE89039DCC18C5812E057FEA6D",
+  "PreviousGameSHA256": "E26E3AF3DBEC8536FE5BCE9628C4A823570C267792111281CF68E2C62ACC4499",
+  "BackupDirectory": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-110123-实测归档补满金币前",
+  "BackedUpSameNameFiles": 5,
+  "SourceHashesRecheckedBeforeWrite": true,
+  "SourceTargetHashesMatch": true,
+  "ByteForByteMatch": true,
+  "CopiedFiles": [
+    "FireHexBow.d2s"
+  ],
+  "CompanionFilesUnchanged": true,
+  "SharedStashTouched": false,
+  "Authorization": "User requested both characters gold refill, archive and one new PR; existing permission allows sync while these characters are not being played",
+  "GameProcessRunning": true
+}

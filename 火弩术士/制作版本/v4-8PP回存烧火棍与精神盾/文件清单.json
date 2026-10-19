@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "File": "FireHexBow.ctl",
+      "Bytes": 900,
+      "SHA256": "F6CF3B5CC873430864F9BD6D9C7CE48B7F67C5C9AF4B946709254C247F32FE04"
+    },
+    {
+      "File": "FireHexBow.d2s",
+      "Bytes": 3117,
+      "SHA256": "39DC5DCA9A961437F6D8826B839CA2BDC8120AD8F47EA9F07F5031669C308FAC"
+    },
+    {
+      "File": "FireHexBow.key",
+      "Bytes": 1362,
+      "SHA256": "79E22E4B22CD58998B0416CF0BCEFC2762CD5688198B4363EE9217A186E3932B"
+    },
+    {
+      "File": "FireHexBow.ma0",
+      "Bytes": 29286,
+      "SHA256": "75D4576DEF8FB9698DF0BB72597B39F0DBAF7AE3CB37CF64FE1751287EBF8BE6"
+    },
+    {
+      "File": "FireHexBow.map",
+      "Bytes": 24,
+      "SHA256": "A0AF7D5258780272F1580B3227F877A9A5DEC33A1EF92E6CBCA9648114419F40"
+    }
+  ],
+  "SourceSnapshot": "E:\\game\\d2rsaves\\火弩术士\\历史归档\\20261019-103408-实测回存烧火棍与精神盾前\\当前国服快照",
+  "CompanionFilesUnchanged": true,
+  "CopiedToChineseGameFolder": true,
+  "DeliveryDate": "2026-10-19T10:39:20.970361+08:00"
+}
