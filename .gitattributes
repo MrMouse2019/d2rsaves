@@ -5,3 +5,5 @@
 *.ma[0-9] binary
 # Frozen upstream tab-separated game tables must retain their original bytes.
 火弩术士/参考资料/数据表/* -text -whitespace
+冰法/制作工具/gems.txt -text -whitespace
+冰法/制作工具/hireling.txt -text -whitespace

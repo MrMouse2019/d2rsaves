@@ -1,0 +1,37 @@
+{
+  "Snapshot": "冰法/历史归档/20261021-225729-评测通过回存前/当前国服快照",
+  "PriorArchive": "冰法/历史归档/20261021-225729-评测通过回存前/原归档调整版",
+  "Files": [
+    {
+      "Name": "BlizzSorc.ctl",
+      "Bytes": 900,
+      "LastWriteTime": "2026-10-21T22:56:00.1231338+08:00",
+      "SHA256": "6483496E83521C4D8C4610BA0C7E85FFE460893E56457A2E759521F07A3E0EFC"
+    },
+    {
+      "Name": "BlizzSorc.d2s",
+      "Bytes": 3306,
+      "LastWriteTime": "2026-10-21T22:56:00.1199214+08:00",
+      "SHA256": "8A74DE01E7F048786E163B7509B01FCA1A6093A53593E072B388E0613271BB49"
+    },
+    {
+      "Name": "BlizzSorc.key",
+      "Bytes": 1362,
+      "LastWriteTime": "2026-10-18T18:47:43.6000897+08:00",
+      "SHA256": "80A0F485315621F0C1F51FB8970ECA450EDB53A4C15BE68885CB4A6DEF68B013"
+    },
+    {
+      "Name": "BlizzSorc.ma0",
+      "Bytes": 26716,
+      "LastWriteTime": "2026-10-21T22:53:57.1163581+08:00",
+      "SHA256": "EDB6A800BB6ECFE702984A55B2185F51CC7A18DFC0F9DE097CCB3C2B107E15C1"
+    },
+    {
+      "Name": "BlizzSorc.map",
+      "Bytes": 24,
+      "LastWriteTime": "2026-10-18T18:47:13.8786196+08:00",
+      "SHA256": "66A613616922EB255B9E148E99401896D68C65B145C58BFE6483D7562449E0E0"
+    }
+  ],
+  "StableSnapshot": true
+}

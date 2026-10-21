@@ -1,0 +1,2599 @@
+{
+  "Name": "BlizzSorc",
+  "Level": 99,
+  "Version": 105,
+  "Stats": [
+    {
+      "Id": 0,
+      "Layer": 0,
+      "Value": 111
+    },
+    {
+      "Id": 1,
+      "Layer": 0,
+      "Value": 35
+    },
+    {
+      "Id": 2,
+      "Layer": 0,
+      "Value": 25
+    },
+    {
+      "Id": 3,
+      "Layer": 0,
+      "Value": 414
+    },
+    {
+      "Id": 6,
+      "Layer": 0,
+      "Value": 413440
+    },
+    {
+      "Id": 7,
+      "Layer": 0,
+      "Value": 257536
+    },
+    {
+      "Id": 8,
+      "Layer": 0,
+      "Value": 175014
+    },
+    {
+      "Id": 9,
+      "Layer": 0,
+      "Value": 59136
+    },
+    {
+      "Id": 10,
+      "Layer": 0,
+      "Value": 164608
+    },
+    {
+      "Id": 11,
+      "Layer": 0,
+      "Value": 147456
+    },
+    {
+      "Id": 12,
+      "Layer": 0,
+      "Value": 99
+    },
+    {
+      "Id": 13,
+      "Layer": 0,
+      "Value": 3520485254
+    },
+    {
+      "Id": 14,
+      "Layer": 0,
+      "Value": 989840
+    },
+    {
+      "Id": 15,
+      "Layer": 0,
+      "Value": 2500000
+    }
+  ],
+  "Merc": {
+    "Flags": 0,
+    "Seed": 1295453450,
+    "NameIndex": 0,
+    "HirelingId": 11,
+    "Experience": 114095520,
+    "IsDead": false,
+    "HasMerc": true
+  },
+  "MercItems": [
+    {
+      "Code": "uar",
+      "Seed": 0,
+      "Quality": "Superior",
+      "QualityData": {
+        "SuperiorFileIndex": 0,
+        "FileIndex": 0
+      },
+      "Flags": "Identified, Socketed, Ethereal, JustSaved, Runeword",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 3,
+        "InvX": 3,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": 20547,
+      "Stats": [],
+      "RWStats": [
+        {
+          "Id": 16,
+          "Layer": 0,
+          "Value": 200
+        },
+        {
+          "Id": 17,
+          "Layer": 0,
+          "Value": 300
+        },
+        {
+          "Id": 18,
+          "Layer": 0,
+          "Value": 300
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 105,
+          "Layer": 0,
+          "Value": 25
+        },
+        {
+          "Id": 114,
+          "Layer": 0,
+          "Value": 12
+        },
+        {
+          "Id": 201,
+          "Layer": 3855,
+          "Value": 20
+        },
+        {
+          "Id": 216,
+          "Layer": 0,
+          "Value": 3072
+        }
+      ],
+      "Sockets": [
+        "r01",
+        "r12",
+        "r14",
+        "r28"
+      ],
+      "Defense": 900,
+      "Durability": 31
+    },
+    {
+      "Code": "usk",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 345,
+        "FileIndex": 345
+      },
+      "Flags": "Identified, Socketed, Ethereal, JustSaved",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 1,
+        "InvX": 1,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 0,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 16,
+          "Layer": 0,
+          "Value": 150
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": -30
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 70
+        },
+        {
+          "Id": 46,
+          "Layer": 0,
+          "Value": 10
+        },
+        {
+          "Id": 60,
+          "Layer": 0,
+          "Value": 10
+        },
+        {
+          "Id": 93,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 2
+        },
+        {
+          "Id": 201,
+          "Layer": 5903,
+          "Value": 15
+        },
+        {
+          "Id": 204,
+          "Layer": 17795,
+          "Value": 5120
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        "jew"
+      ],
+      "Defense": 231,
+      "Durability": 11
+    },
+    {
+      "Code": "7wc",
+      "Seed": 0,
+      "Quality": "Superior",
+      "QualityData": {
+        "SuperiorFileIndex": 3,
+        "FileIndex": 3
+      },
+      "Flags": "Identified, Socketed, Ethereal, JustSaved, Runeword",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 4,
+        "InvX": 4,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": 20566,
+      "Stats": [
+        {
+          "Id": 17,
+          "Layer": 0,
+          "Value": 15
+        },
+        {
+          "Id": 18,
+          "Layer": 0,
+          "Value": 15
+        },
+        {
+          "Id": 19,
+          "Layer": 0,
+          "Value": 3
+        }
+      ],
+      "RWStats": [
+        {
+          "Id": 17,
+          "Layer": 0,
+          "Value": 325
+        },
+        {
+          "Id": 18,
+          "Layer": 0,
+          "Value": 325
+        },
+        {
+          "Id": 96,
+          "Layer": 0,
+          "Value": 35
+        },
+        {
+          "Id": 151,
+          "Layer": 123,
+          "Value": 12
+        },
+        {
+          "Id": 196,
+          "Layer": 3412,
+          "Value": 50
+        },
+        {
+          "Id": 204,
+          "Layer": 15061,
+          "Value": 7680
+        },
+        {
+          "Id": 223,
+          "Layer": 0,
+          "Value": 4
+        },
+        {
+          "Id": 334,
+          "Layer": 0,
+          "Value": 55
+        }
+      ],
+      "Sockets": [
+        "r30",
+        "r23",
+        "r30",
+        "r24"
+      ],
+      "Defense": null,
+      "Durability": 28
+    }
+  ],
+  "Items": [
+    {
+      "Code": "uui",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 358,
+        "FileIndex": 358
+      },
+      "Flags": "Identified, Socketed, JustSaved",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 3,
+        "InvX": 3,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 27,
+          "Layer": 0,
+          "Value": 15
+        },
+        {
+          "Id": 31,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 105,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 107,
+          "Layer": 59,
+          "Value": 3
+        },
+        {
+          "Id": 329,
+          "Layer": 0,
+          "Value": 15
+        },
+        {
+          "Id": 330,
+          "Layer": 0,
+          "Value": 15
+        },
+        {
+          "Id": 331,
+          "Layer": 0,
+          "Value": 15
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        "jew"
+      ],
+      "Defense": 467,
+      "Durability": 20
+    },
+    {
+      "Code": "rin",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 122,
+        "FileIndex": 122
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 6,
+        "InvX": 6,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 9,
+          "Layer": 0,
+          "Value": 5120
+        },
+        {
+          "Id": 50,
+          "Layer": 0,
+          "Value": 1
+        },
+        {
+          "Id": 51,
+          "Layer": 0,
+          "Value": 12
+        },
+        {
+          "Id": 77,
+          "Layer": 0,
+          "Value": 25
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 1
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rin",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 122,
+        "FileIndex": 122
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 7,
+        "InvX": 7,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 9,
+          "Layer": 0,
+          "Value": 5120
+        },
+        {
+          "Id": 50,
+          "Layer": 0,
+          "Value": 1
+        },
+        {
+          "Id": 51,
+          "Layer": 0,
+          "Value": 12
+        },
+        {
+          "Id": 77,
+          "Layer": 0,
+          "Value": 25
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 1
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "uhm",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 343,
+        "FileIndex": 343
+      },
+      "Flags": "Identified, Socketed, JustSaved",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 1,
+        "InvX": 1,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 2,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 16,
+          "Layer": 0,
+          "Value": 120
+        },
+        {
+          "Id": 91,
+          "Layer": 0,
+          "Value": -50
+        },
+        {
+          "Id": 118,
+          "Layer": 0,
+          "Value": 1
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 2
+        },
+        {
+          "Id": 149,
+          "Layer": 0,
+          "Value": 9
+        },
+        {
+          "Id": 331,
+          "Layer": 0,
+          "Value": 15
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        "cjw"
+      ],
+      "Defense": 159,
+      "Durability": 40
+    },
+    {
+      "Code": "ulc",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 373,
+        "FileIndex": 373
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 8,
+        "InvX": 8,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 16,
+          "Layer": 0,
+          "Value": 120
+        },
+        {
+          "Id": 77,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 105,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 1
+        },
+        {
+          "Id": 150,
+          "Layer": 0,
+          "Value": 10
+        },
+        {
+          "Id": 204,
+          "Layer": 17795,
+          "Value": 2816
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": 62,
+      "Durability": 12
+    },
+    {
+      "Code": "cm1",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 322,
+        "SuffixId": 349,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 4,
+        "InvY": 0,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 5120
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 5
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm1",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 322,
+        "SuffixId": 349,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 5,
+        "InvY": 0,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 5120
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 5
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm3",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 444,
+        "SuffixId": 339,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 4,
+        "InvY": 1,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 11520
+        },
+        {
+          "Id": 188,
+          "Layer": 10,
+          "Value": 1
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm3",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 444,
+        "SuffixId": 339,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 5,
+        "InvY": 1,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 11520
+        },
+        {
+          "Id": 188,
+          "Layer": 10,
+          "Value": 1
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm3",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 444,
+        "SuffixId": 339,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 6,
+        "InvY": 1,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 11520
+        },
+        {
+          "Id": 188,
+          "Layer": 10,
+          "Value": 1
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm3",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 444,
+        "SuffixId": 339,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 7,
+        "InvY": 1,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 11520
+        },
+        {
+          "Id": 188,
+          "Layer": 10,
+          "Value": 1
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm3",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 444,
+        "SuffixId": 339,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 8,
+        "InvY": 1,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 11520
+        },
+        {
+          "Id": 188,
+          "Layer": 10,
+          "Value": 1
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm3",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 444,
+        "SuffixId": 339,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 9,
+        "InvY": 1,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 11520
+        },
+        {
+          "Id": 188,
+          "Layer": 10,
+          "Value": 1
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, CompactSave, JustSaved",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 2,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, CompactSave, JustSaved",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 6,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, CompactSave, JustSaved",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 10,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, CompactSave, JustSaved",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 14,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cs2",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 427,
+        "FileIndex": 427
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 3,
+        "InvY": 1,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 16640
+        },
+        {
+          "Id": 35,
+          "Layer": 0,
+          "Value": 10
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": -70
+        },
+        {
+          "Id": 80,
+          "Layer": 0,
+          "Value": 25
+        },
+        {
+          "Id": 99,
+          "Layer": 0,
+          "Value": 24
+        },
+        {
+          "Id": 187,
+          "Layer": 0,
+          "Value": 300
+        },
+        {
+          "Id": 335,
+          "Layer": 0,
+          "Value": 10
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm2",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 400,
+        "FileIndex": 400
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 2,
+        "InvY": 1,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 0,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 1,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 2,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 3,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 83,
+          "Layer": 1,
+          "Value": 3
+        },
+        {
+          "Id": 89,
+          "Layer": 0,
+          "Value": 8
+        },
+        {
+          "Id": 198,
+          "Layer": 12618,
+          "Value": 5
+        },
+        {
+          "Id": 204,
+          "Layer": 3998,
+          "Value": 2560
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm1",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 381,
+        "FileIndex": 381
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 2,
+        "InvY": 3,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 0,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 1,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 2,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 3,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 85,
+          "Layer": 0,
+          "Value": 10
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 1
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, CompactSave, JustSaved",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 3,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, CompactSave, JustSaved",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 7,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, CompactSave, JustSaved",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 11,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, CompactSave, JustSaved",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 15,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "10486800",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 1,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "10486800",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 5,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvs",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "10486800",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 9,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, CompactSave, JustSaved",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 13,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "tbk",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": {
+        "SpellType": 0,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 0,
+        "InvY": 2,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "uit",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 422,
+        "SuffixId": 173,
+        "FileIndex": null
+      },
+      "Flags": "Identified, Socketed, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 0,
+        "InvY": 0,
+        "StorePage": 4,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 20,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 102,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 194,
+          "Layer": 0,
+          "Value": 4
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        "jew",
+        "jew",
+        "jew",
+        "jew"
+      ],
+      "Defense": 148,
+      "Durability": 86
+    },
+    {
+      "Code": "2ax",
+      "Seed": 0,
+      "Quality": "Superior",
+      "QualityData": {
+        "SuperiorFileIndex": 0,
+        "FileIndex": 0
+      },
+      "Flags": "Identified, Socketed, Ethereal, JustSaved, Runeword",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 2,
+        "InvY": 0,
+        "StorePage": 4,
+        "IsOnGround": false
+      },
+      "Runeword": 20532,
+      "Stats": [],
+      "RWStats": [
+        {
+          "Id": 17,
+          "Layer": 0,
+          "Value": 320
+        },
+        {
+          "Id": 18,
+          "Layer": 0,
+          "Value": 320
+        },
+        {
+          "Id": 93,
+          "Layer": 0,
+          "Value": 45
+        },
+        {
+          "Id": 117,
+          "Layer": 0,
+          "Value": 1
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 2
+        },
+        {
+          "Id": 151,
+          "Layer": 114,
+          "Value": 12
+        },
+        {
+          "Id": 198,
+          "Layer": 15634,
+          "Value": 5
+        },
+        {
+          "Id": 335,
+          "Layer": 0,
+          "Value": 60
+        }
+      ],
+      "Sockets": [
+        "r15",
+        "r27",
+        "r22",
+        "r28",
+        "r32"
+      ],
+      "Defense": null,
+      "Durability": 13
+    },
+    {
+      "Code": "cm1",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 322,
+        "SuffixId": 349,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 6,
+        "InvY": 0,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 5120
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 5
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm1",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 322,
+        "SuffixId": 349,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 7,
+        "InvY": 0,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 5120
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 5
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "amu",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 272,
+        "FileIndex": 272
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 2,
+        "InvX": 2,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 0,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 1,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 2,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 3,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 2
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "ibk",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": {
+        "SpellType": 1,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 1,
+        "InvY": 2,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvl",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "10486800",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 0,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "rvs",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, CompactSave, JustSaved",
+      "Position": {
+        "Mode": 2,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 4,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "box",
+      "Seed": 0,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 0,
+        "InvY": 0,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm1",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 322,
+        "SuffixId": 349,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 9,
+        "InvY": 0,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 5120
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 5
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm1",
+      "Seed": 1442863456,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 407,
+        "SuffixId": 714,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 9,
+        "InvY": 8,
+        "StorePage": 4,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 9
+        },
+        {
+          "Id": 48,
+          "Layer": 0,
+          "Value": 1
+        },
+        {
+          "Id": 49,
+          "Layer": 0,
+          "Value": 2
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm1",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 322,
+        "SuffixId": 349,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 8,
+        "InvY": 0,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 5120
+        },
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 5
+        },
+        {
+          "Id": 45,
+          "Layer": 0,
+          "Value": 5
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "cm1",
+      "Seed": 0,
+      "Quality": "Magic",
+      "QualityData": {
+        "PrefixId": 349,
+        "SuffixId": 349,
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 3,
+        "InvY": 0,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 7,
+          "Layer": 0,
+          "Value": 5120
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 11
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "key",
+      "Seed": 525905459,
+      "Quality": "Normal",
+      "QualityData": null,
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 0,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 0,
+        "InvX": 2,
+        "InvY": 0,
+        "StorePage": 0,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": null,
+      "Durability": null
+    },
+    {
+      "Code": "uit",
+      "Seed": 0,
+      "Quality": "Superior",
+      "QualityData": {
+        "SuperiorFileIndex": 2,
+        "FileIndex": 2
+      },
+      "Flags": "Identified, Socketed, JustSaved, Runeword",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 12,
+        "InvX": 12,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": 20635,
+      "Stats": [
+        {
+          "Id": 16,
+          "Layer": 0,
+          "Value": 15
+        }
+      ],
+      "RWStats": [
+        {
+          "Id": 3,
+          "Layer": 0,
+          "Value": 22
+        },
+        {
+          "Id": 9,
+          "Layer": 0,
+          "Value": 28672
+        },
+        {
+          "Id": 32,
+          "Layer": 0,
+          "Value": 250
+        },
+        {
+          "Id": 99,
+          "Layer": 0,
+          "Value": 55
+        },
+        {
+          "Id": 105,
+          "Layer": 0,
+          "Value": 35
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 2
+        },
+        {
+          "Id": 147,
+          "Layer": 0,
+          "Value": 8
+        }
+      ],
+      "Sockets": [
+        "r07",
+        "r10",
+        "r09",
+        "r11"
+      ],
+      "Defense": 148,
+      "Durability": 86
+    },
+    {
+      "Code": "crs",
+      "Seed": 0,
+      "Quality": "Superior",
+      "QualityData": {
+        "SuperiorFileIndex": 0,
+        "FileIndex": 0
+      },
+      "Flags": "Identified, Socketed, JustSaved, Runeword",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 11,
+        "InvX": 11,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": 20519,
+      "Stats": [],
+      "RWStats": [
+        {
+          "Id": 17,
+          "Layer": 0,
+          "Value": 240
+        },
+        {
+          "Id": 18,
+          "Layer": 0,
+          "Value": 240
+        },
+        {
+          "Id": 74,
+          "Layer": 0,
+          "Value": 12
+        },
+        {
+          "Id": 93,
+          "Layer": 0,
+          "Value": 40
+        },
+        {
+          "Id": 97,
+          "Layer": 146,
+          "Value": 4
+        },
+        {
+          "Id": 97,
+          "Layer": 149,
+          "Value": 6
+        },
+        {
+          "Id": 97,
+          "Layer": 155,
+          "Value": 6
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 1
+        }
+      ],
+      "Sockets": [
+        "r11",
+        "r08",
+        "r23",
+        "r24",
+        "r27"
+      ],
+      "Defense": null,
+      "Durability": 20
+    },
+    {
+      "Code": "xmg",
+      "Seed": 0,
+      "Quality": "Set",
+      "QualityData": {
+        "SetUniqueFileIndex": 88,
+        "FileIndex": 88
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 10,
+        "InvX": 10,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 31,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 105,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 188,
+          "Layer": 16,
+          "Value": 2
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": 44,
+      "Durability": 16
+    },
+    {
+      "Code": "uvb",
+      "Seed": 0,
+      "Quality": "Rare",
+      "QualityData": {
+        "RarePrefixId": 182,
+        "RareSuffixId": 100,
+        "Prefixes": [
+          394,
+          374,
+          355
+        ],
+        "Suffixes": [
+          287,
+          396,
+          262
+        ],
+        "FileIndex": null
+      },
+      "Flags": "Identified, JustSaved",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 9,
+        "InvX": 9,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 40
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 40
+        },
+        {
+          "Id": 43,
+          "Layer": 0,
+          "Value": 40
+        },
+        {
+          "Id": 80,
+          "Layer": 0,
+          "Value": 25
+        },
+        {
+          "Id": 96,
+          "Layer": 0,
+          "Value": 30
+        },
+        {
+          "Id": 99,
+          "Layer": 0,
+          "Value": 10
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        null
+      ],
+      "Defense": 65,
+      "Durability": 14
+    },
+    {
+      "Code": "obf",
+      "Seed": 0,
+      "Quality": "Unique",
+      "QualityData": {
+        "SetUniqueFileIndex": 354,
+        "FileIndex": 354
+      },
+      "Flags": "Identified, Socketed, Ethereal, JustSaved",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 4,
+        "InvX": 4,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": null,
+      "Stats": [
+        {
+          "Id": 39,
+          "Layer": 0,
+          "Value": 40
+        },
+        {
+          "Id": 41,
+          "Layer": 0,
+          "Value": 40
+        },
+        {
+          "Id": 83,
+          "Layer": 1,
+          "Value": 3
+        },
+        {
+          "Id": 105,
+          "Layer": 0,
+          "Value": 20
+        },
+        {
+          "Id": 331,
+          "Layer": 0,
+          "Value": 30
+        }
+      ],
+      "RWStats": [],
+      "Sockets": [
+        "jew"
+      ],
+      "Defense": null,
+      "Durability": 26
+    },
+    {
+      "Code": "uit",
+      "Seed": 0,
+      "Quality": "Superior",
+      "QualityData": {
+        "SuperiorFileIndex": 0,
+        "FileIndex": 0
+      },
+      "Flags": "Identified, Socketed, JustSaved, Runeword",
+      "Position": {
+        "Mode": 1,
+        "GroundX": 0,
+        "GroundY": 0,
+        "BodyLocation": 5,
+        "InvX": 5,
+        "InvY": 0,
+        "StorePage": 255,
+        "IsOnGround": false
+      },
+      "Runeword": 20635,
+      "Stats": [],
+      "RWStats": [
+        {
+          "Id": 3,
+          "Layer": 0,
+          "Value": 22
+        },
+        {
+          "Id": 9,
+          "Layer": 0,
+          "Value": 28672
+        },
+        {
+          "Id": 32,
+          "Layer": 0,
+          "Value": 250
+        },
+        {
+          "Id": 99,
+          "Layer": 0,
+          "Value": 55
+        },
+        {
+          "Id": 105,
+          "Layer": 0,
+          "Value": 35
+        },
+        {
+          "Id": 127,
+          "Layer": 0,
+          "Value": 2
+        },
+        {
+          "Id": 147,
+          "Layer": 0,
+          "Value": 8
+        }
+      ],
+      "Sockets": [
+        "r07",
+        "r10",
+        "r09",
+        "r11"
+      ],
+      "Defense": 148,
+      "Durability": 86
+    }
+  ],
+  "Skills": {
+    "CharacterClass": 1,
+    "SkillLevels": [
+      0,
+      1,
+      0,
+      20,
+      1,
+      0,
+      5,
+      1,
+      1,
+      20,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      20,
+      0,
+      0,
+      0,
+      20,
+      0,
+      0,
+      0,
+      0,
+      0,
+      20
+    ],
+    "SkillIdOffset": 36
+  }
+}
