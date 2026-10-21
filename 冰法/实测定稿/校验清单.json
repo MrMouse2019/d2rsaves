@@ -1,0 +1,99 @@
+{
+  "Date": "2026-10-21T22:59:25.0465765+08:00",
+  "Status": "用户实测认可归档；适合低人数刷图，8PP效率不如新星；PR待审核",
+  "Character": "BlizzSorc",
+  "SourceSnapshot": "冰法/历史归档/20261021-225729-评测通过回存前/当前国服快照",
+  "SourceSHA256": "8A74DE01E7F048786E163B7509B01FCA1A6093A53593E072B388E0613271BB49",
+  "Files": [
+    {
+      "Name": "BlizzSorc.ctl",
+      "Bytes": 900,
+      "SHA256": "6483496E83521C4D8C4610BA0C7E85FFE460893E56457A2E759521F07A3E0EFC"
+    },
+    {
+      "Name": "BlizzSorc.d2s",
+      "Bytes": 3306,
+      "SHA256": "1E009C41601A4D2A3A5A4435875E2C3F8A06317107CD2112DDFB006A7F1692BD"
+    },
+    {
+      "Name": "BlizzSorc.key",
+      "Bytes": 1362,
+      "SHA256": "80A0F485315621F0C1F51FB8970ECA450EDB53A4C15BE68885CB4A6DEF68B013"
+    },
+    {
+      "Name": "BlizzSorc.ma0",
+      "Bytes": 26716,
+      "SHA256": "EDB6A800BB6ECFE702984A55B2185F51CC7A18DFC0F9DE097CCB3C2B107E15C1"
+    },
+    {
+      "Name": "BlizzSorc.map",
+      "Bytes": 24,
+      "SHA256": "66A613616922EB255B9E148E99401896D68C65B145C58BFE6483D7562449E0E0"
+    }
+  ],
+  "Validation": {
+    "Result": "PASS",
+    "Character": "BlizzSorc",
+    "Format": 105,
+    "Bytes": 3306,
+    "SHA256": "1E009C41601A4D2A3A5A4435875E2C3F8A06317107CD2112DDFB006A7F1692BD",
+    "HeaderLengthChecksumAndRoundtrip": true,
+    "InventoryCubeStashBoundsOverlap": true,
+    "MainRawResistance": [
+      80,
+      115,
+      79,
+      68
+    ],
+    "MainDisplayResistance": [
+      75,
+      75,
+      75,
+      68
+    ],
+    "SwitchDisplayResistance": [
+      40,
+      75,
+      75,
+      68
+    ],
+    "EquipmentColdPierce": 30,
+    "ColdLifeCharms": 4,
+    "PoisonLifeCharms": 3,
+    "ColdSkillers": 6,
+    "BeltFullRejuvenation": 16,
+    "ColossalJewels": 1,
+    "MercenaryAura": "Prayer",
+    "MercenaryHirelingId": 12,
+    "MercenaryLevel": 98,
+    "MercenaryAllThreeItemsWearable": true,
+    "SkillsSpent": 110.0,
+    "Unspent": 0,
+    "Gold": 948744,
+    "PersonalStashGold": 2500000,
+    "OldMercGearAndAllResCharmsPreserved": true
+  },
+  "OnlyBeltChangedFromLatestGameSource": true,
+  "BeltBefore": [
+    "rvl",
+    "rvs",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvl",
+    "rvs"
+  ],
+  "BeltAfter": "16 rvl",
+  "SharedStashTouched": false,
+  "SHA256": "1E009C41601A4D2A3A5A4435875E2C3F8A06317107CD2112DDFB006A7F1692BD",
+  "Bytes": 3306
+}

@@ -1,0 +1,17 @@
+{
+  "Date": "2026-10-21T22:28:15.2245636+08:00",
+  "Character": "BlizzSorc",
+  "Source": "冰法/实测回存调整/BlizzSorc.d2s",
+  "Destination": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)\\BlizzSorc.d2s",
+  "SHA256": "46E269B2D3902413C8A83793AA986D11B01616F027EB44C3C8E23F762E78DB8D",
+  "Bytes": 3304,
+  "PreWriteAllSameNameHashesMatch": true,
+  "SourceTargetSHA256AndBytesMatch": true,
+  "WrittenFiles": [
+    "BlizzSorc.d2s"
+  ],
+  "CompanionFilesUnchanged": true,
+  "SharedStashTouched": false,
+  "Backup": "冰法/历史归档/20261021-221656-佣兵与毒抗调整前/当前国服快照",
+  "Authorization": "用户要求修改并同步国服与归档；已有目标人物未使用时可同步约定"
+}

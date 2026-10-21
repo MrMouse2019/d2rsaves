@@ -1,0 +1,17 @@
+{
+  "Date": "2026-10-21T23:00:01.0047409+08:00",
+  "Character": "BlizzSorc",
+  "Source": "冰法/实测定稿/BlizzSorc.d2s",
+  "Destination": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)\\BlizzSorc.d2s",
+  "SHA256": "1E009C41601A4D2A3A5A4435875E2C3F8A06317107CD2112DDFB006A7F1692BD",
+  "Bytes": 3306,
+  "PreWriteAllSameNameHashesMatch": true,
+  "SourceTargetSHA256AndBytesMatch": true,
+  "WrittenFiles": [
+    "BlizzSorc.d2s"
+  ],
+  "CompanionFilesUnchanged": true,
+  "SharedStashTouched": false,
+  "Backup": "冰法/历史归档/20261021-225729-评测通过回存前/当前国服快照",
+  "Authorization": "用户要求修改并同步国服与归档；已有目标人物未使用时可同步约定"
+}

@@ -1,0 +1,21 @@
+{
+  "Library": "D2SSharp 0.0.24",
+  "Package": "https://api.nuget.org/v3-flatcontainer/d2ssharp/0.0.24/d2ssharp.0.0.24.nupkg",
+  "LibrarySHA256": "333C325929D3970FACBC646E0479A7B5BCECCB98AB71D8D41B8EF7ED6C127860",
+  "Data": [
+    {
+      "URL": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/gems.txt",
+      "File": "gems.txt",
+      "SHA256": "955D22EB1E7FCED4F138D975670DE642E2410BFD72DF03E2BCFCF689339E155B"
+    },
+    {
+      "URL": "https://raw.githubusercontent.com/pinkufairy/D2R-Excel/main/hireling.txt",
+      "File": "hireling.txt",
+      "SHA256": "5401A23343348AAA2710337297E85D2EDF124A5F84D16CD2CA4330D3209CFA8B"
+    }
+  ],
+  "Mechanics": [
+    "https://classic.battle.net/diablo2exp/items/runes.shtml",
+    "https://classic.battle.net/diablo2exp/quests/rewards.shtml"
+  ]
+}

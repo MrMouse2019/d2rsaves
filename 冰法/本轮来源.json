@@ -1,0 +1,36 @@
+{
+  "Snapshot": "冰法/历史归档/20261021-221656-佣兵与毒抗调整前/当前国服快照",
+  "Files": [
+    {
+      "Name": "BlizzSorc.ctl",
+      "Bytes": 900,
+      "LastWriteTime": "2026-10-20T17:16:34.4465195+08:00",
+      "SHA256": "6483496E83521C4D8C4610BA0C7E85FFE460893E56457A2E759521F07A3E0EFC"
+    },
+    {
+      "Name": "BlizzSorc.d2s",
+      "Bytes": 2871,
+      "LastWriteTime": "2026-10-20T17:16:34.4432236+08:00",
+      "SHA256": "2F55AEA98163EE5CD6D0FC820180CFB9EFB82FD3BCF0E9F8242CF729C06EC71B"
+    },
+    {
+      "Name": "BlizzSorc.key",
+      "Bytes": 1362,
+      "LastWriteTime": "2026-10-18T18:47:43.6000897+08:00",
+      "SHA256": "80A0F485315621F0C1F51FB8970ECA450EDB53A4C15BE68885CB4A6DEF68B013"
+    },
+    {
+      "Name": "BlizzSorc.ma0",
+      "Bytes": 13288,
+      "LastWriteTime": "2026-10-20T17:14:18.1599480+08:00",
+      "SHA256": "43FFF13EF95DCB0152CD06C554FBCD71F436904DB463DC816F66E50828292944"
+    },
+    {
+      "Name": "BlizzSorc.map",
+      "Bytes": 24,
+      "LastWriteTime": "2026-10-18T18:47:13.8786196+08:00",
+      "SHA256": "66A613616922EB255B9E148E99401896D68C65B145C58BFE6483D7562449E0E0"
+    }
+  ],
+  "BeforeCopyAfterCopyAndSourceHashesMatch": true
+}

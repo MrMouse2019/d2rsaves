@@ -1,0 +1,175 @@
+{
+  "Date": "2026-10-21T22:26:37.4958337+08:00",
+  "Character": "BlizzSorc",
+  "Level": 99,
+  "Format": 105,
+  "Bytes": 3304,
+  "SHA256": "46E269B2D3902413C8A83793AA986D11B01616F027EB44C3C8E23F762E78DB8D",
+  "SourceSHA256": "2F55AEA98163EE5CD6D0FC820180CFB9EFB82FD3BCF0E9F8242CF729C06EC71B",
+  "DonorSHA256": "2DD0342E0C90AC0B2856E15D3A465FC74A5386EBC04E453ADFEB8A32EE4B004B",
+  "LibrarySHA256": "333C325929D3970FACBC646E0479A7B5BCECCB98AB71D8D41B8EF7ED6C127860",
+  "Status": "原角色用户已测试；本次调整待游戏复测",
+  "Resistance": {
+    "Order": "Fire,Lightning,Cold,Poison",
+    "Difficulty": "Hell",
+    "Anya": 30,
+    "Penalty": -100,
+    "SpiritRuneContributions": "Ort lightning 35, Thul cold 35, Tal poison 35",
+    "BeforeRaw": [
+      110,
+      145,
+      76,
+      65
+    ],
+    "MainRaw": [
+      80,
+      115,
+      79,
+      68
+    ],
+    "MainDisplay": [
+      75,
+      75,
+      75,
+      68
+    ],
+    "SwitchRaw": [
+      40,
+      75,
+      79,
+      68
+    ],
+    "SwitchDisplay": [
+      40,
+      75,
+      75,
+      68
+    ],
+    "NoEnemyConvictionOrLowerResist": true
+  },
+  "Charms": {
+    "ColdLife": 4,
+    "PoisonLife": 3,
+    "EachLife": 20,
+    "EachResistance": 11,
+    "OldAllResRetainedInStash": 6,
+    "Moved": [
+      {
+        "Index": 5,
+        "FromX": 4,
+        "FromY": 0,
+        "StashX": 4,
+        "StashY": 0
+      },
+      {
+        "Index": 6,
+        "FromX": 5,
+        "FromY": 0,
+        "StashX": 5,
+        "StashY": 0
+      },
+      {
+        "Index": 31,
+        "FromX": 6,
+        "FromY": 0,
+        "StashX": 6,
+        "StashY": 0
+      },
+      {
+        "Index": 32,
+        "FromX": 7,
+        "FromY": 0,
+        "StashX": 7,
+        "StashY": 0
+      },
+      {
+        "Index": 40,
+        "FromX": 8,
+        "FromY": 0,
+        "StashX": 8,
+        "StashY": 0
+      },
+      {
+        "Index": 38,
+        "FromX": 9,
+        "FromY": 0,
+        "StashX": 9,
+        "StashY": 0
+      }
+    ]
+  },
+  "Mercenary": {
+    "HirelingId": 11,
+    "Aura": "Might",
+    "Level": 98,
+    "StrengthWithoutOldHelm": 213,
+    "Dexterity": 173,
+    "Weapon": "Ethereal superior Giant Thresher Insight 17/260/250/6",
+    "Helm": "Ethereal superior Bone Visage Cure",
+    "Armor": "Ethereal superior Archon Plate Chains of Honor; original Sacred Armor Fortitude preserved in stash",
+    "OldGear": [
+      {
+        "Code": "7wc",
+        "Runeword": 20566,
+        "Unique": 3,
+        "Slot": "RightArm"
+      },
+      {
+        "Code": "usk",
+        "Runeword": null,
+        "Unique": 345,
+        "Slot": "Head"
+      },
+      {
+        "Code": "uar",
+        "Runeword": 20547,
+        "Unique": 0,
+        "Slot": "Torso"
+      }
+    ],
+    "OldGearRetainedInStash": true
+  },
+  "Belt": {
+    "Before": 14,
+    "After": 16,
+    "FullRejuvenation": 16
+  },
+  "Validation": {
+    "HeaderLengthChecksum": true,
+    "WrittenRoundtrip": true,
+    "UndoChangesReproducesSourceBytes": true,
+    "InventoryCubeStashBoundsOverlap": true,
+    "RenewedColdSunderTypeAndSevenStats": true,
+    "ColossalJewels": 1,
+    "MercenaryAllThreeItemsWearable": true,
+    "SkillsStatsGoldProgressAndExistingSeedsPreserved": true,
+    "InGameRetestPending": true
+  },
+  "Files": [
+    {
+      "Name": "BlizzSorc.ctl",
+      "Bytes": 900,
+      "SHA256": "6483496E83521C4D8C4610BA0C7E85FFE460893E56457A2E759521F07A3E0EFC"
+    },
+    {
+      "Name": "BlizzSorc.d2s",
+      "Bytes": 3304,
+      "SHA256": "46E269B2D3902413C8A83793AA986D11B01616F027EB44C3C8E23F762E78DB8D"
+    },
+    {
+      "Name": "BlizzSorc.key",
+      "Bytes": 1362,
+      "SHA256": "80A0F485315621F0C1F51FB8970ECA450EDB53A4C15BE68885CB4A6DEF68B013"
+    },
+    {
+      "Name": "BlizzSorc.ma0",
+      "Bytes": 13288,
+      "SHA256": "43FFF13EF95DCB0152CD06C554FBCD71F436904DB463DC816F66E50828292944"
+    },
+    {
+      "Name": "BlizzSorc.map",
+      "Bytes": 24,
+      "SHA256": "66A613616922EB255B9E148E99401896D68C65B145C58BFE6483D7562449E0E0"
+    }
+  ]
+}

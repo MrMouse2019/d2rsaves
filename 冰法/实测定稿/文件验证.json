@@ -1,0 +1,42 @@
+{
+  "Result": "PASS",
+  "Character": "BlizzSorc",
+  "Format": 105,
+  "Bytes": 3306,
+  "SHA256": "1E009C41601A4D2A3A5A4435875E2C3F8A06317107CD2112DDFB006A7F1692BD",
+  "HeaderLengthChecksumAndRoundtrip": true,
+  "InventoryCubeStashBoundsOverlap": true,
+  "MainRawResistance": [
+    80,
+    115,
+    79,
+    68
+  ],
+  "MainDisplayResistance": [
+    75,
+    75,
+    75,
+    68
+  ],
+  "SwitchDisplayResistance": [
+    40,
+    75,
+    75,
+    68
+  ],
+  "EquipmentColdPierce": 30,
+  "ColdLifeCharms": 4,
+  "PoisonLifeCharms": 3,
+  "ColdSkillers": 6,
+  "BeltFullRejuvenation": 16,
+  "ColossalJewels": 1,
+  "MercenaryAura": "Prayer",
+  "MercenaryHirelingId": 12,
+  "MercenaryLevel": 98,
+  "MercenaryAllThreeItemsWearable": true,
+  "SkillsSpent": 110.0,
+  "Unspent": 0,
+  "Gold": 948744,
+  "PersonalStashGold": 2500000,
+  "OldMercGearAndAllResCharmsPreserved": true
+}
