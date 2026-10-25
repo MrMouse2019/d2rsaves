@@ -1,0 +1,17 @@
+{
+  "Date": "2026-10-25T17:57:26.7843934+08:00",
+  "Character": "Mosaic",
+  "Source": "马赛克刺客/制作版本/v1-佣兵与洗点补给/Mosaic.d2s",
+  "Destination": "C:\\Users\\张夏昊\\Saved Games\\Diablo II Resurrected (CN)\\Mosaic.d2s",
+  "SHA256": "E3554B58D23089E353240A4323B7A4E0A090CC571119F4B8A040C66B6E44ABF4",
+  "Bytes": 3119,
+  "PreWriteAllSameNameHashesMatch": true,
+  "SourceTargetSHA256AndBytesMatch": true,
+  "WrittenFiles": [
+    "Mosaic.d2s"
+  ],
+  "CompanionFilesUnchanged": true,
+  "SharedStashTouched": false,
+  "Backup": "马赛克刺客/历史归档/20261025-175612-佣兵与洗点补给前/当前国服快照",
+  "Authorization": "按AGENTS.md既有约定：修改时同步归档和国服，目标人物未使用"
+}

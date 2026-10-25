@@ -1,0 +1,79 @@
+{
+  "Date": "2026-10-25T18:31:18.2360043+08:00",
+  "Status": "用户完成第一幕恐惧地带实测并认可归档；PR待审核",
+  "Character": "Mosaic",
+  "Level": 99,
+  "Format": 105,
+  "Bytes": 3123,
+  "SHA256": "CD82A15FFAA4A770CF34A969C9318D05E5AE5DAA8B33FF9FCAD9B2667F3653BA",
+  "SourceSnapshot": "马赛克刺客/历史归档/20261025-183002-评测通过回存前/当前国服快照",
+  "SourceSHA256": "CD82A15FFAA4A770CF34A969C9318D05E5AE5DAA8B33FF9FCAD9B2667F3653BA",
+  "Files": [
+    {
+      "Name": "Mosaic.ctl",
+      "Bytes": 900,
+      "SHA256": "C124DE70F2F50AFED243EBCC1AE2550C729D583B1CAE9C77625D68B70D5906B4"
+    },
+    {
+      "Name": "Mosaic.d2s",
+      "Bytes": 3123,
+      "SHA256": "CD82A15FFAA4A770CF34A969C9318D05E5AE5DAA8B33FF9FCAD9B2667F3653BA"
+    },
+    {
+      "Name": "Mosaic.key",
+      "Bytes": 1362,
+      "SHA256": "80A0F485315621F0C1F51FB8970ECA450EDB53A4C15BE68885CB4A6DEF68B013"
+    },
+    {
+      "Name": "Mosaic.ma0",
+      "Bytes": 66662,
+      "SHA256": "0A1244BA01E7EFEC3DDA16D9724DA20F383F9207D42B29ADA0ABFAA1FE137D7F"
+    },
+    {
+      "Name": "Mosaic.map",
+      "Bytes": 24,
+      "SHA256": "A47DF19A31A572D385D5AEDAEAA25000A4C30440D7F2578FB1EA88E1DA56383F"
+    }
+  ],
+  "Validation": {
+    "Result": "PASS",
+    "Character": "Mosaic",
+    "Level": 99,
+    "Format": 105,
+    "Bytes": 3123,
+    "SHA256": "CD82A15FFAA4A770CF34A969C9318D05E5AE5DAA8B33FF9FCAD9B2667F3653BA",
+    "HeaderLengthChecksum": true,
+    "WrittenRoundtrip": true,
+    "LatestGameSnapshotByteIdentical": true,
+    "AllStorageBoundsAndOverlap": true,
+    "SkillsSpent": 109.0,
+    "SkillsUnspent": 1,
+    "TokensRemaining": 19,
+    "BeltFullRejuvenation": 16,
+    "Mercenary": {
+      "Level": 98,
+      "AllThreeItemsWearable": true,
+      "Weapon": "无限",
+      "OldHeadAndArmorRetained": true,
+      "Armor": "荣耀之链",
+      "Aura": "Blessed Aim",
+      "HirelingId": 14,
+      "Helm": "治愈"
+    },
+    "RenewedLightningSunderTypeAndSevenStats": true,
+    "ColossalJewels": 1,
+    "Gold": 990000,
+    "PersonalStashGold": 2500000,
+    "SourceBackupFilesVerified": 5
+  },
+  "LatestGameFilesCopiedWithoutModification": true,
+  "SharedStashTouched": false,
+  "CarriedKeys": 0,
+  "CarriedKeysNote": "按最新国服实际布局原样保留，未擅自添加或移动物品",
+  "UserFeedback": {
+    "DetailedDamageOrSurvivalMetrics": "未提供",
+    "Area": "第一幕恐惧地带",
+    "Comment": "马赛克刺客太强了",
+    "PlayersSetting": "未提供"
+  }
+}

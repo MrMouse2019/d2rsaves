@@ -1,0 +1,38 @@
+{
+  "Source": "用户评测后最新已落盘国服Mosaic",
+  "PreviousArchive": "马赛克刺客/历史归档/20261025-183002-评测通过回存前/原调整归档",
+  "Files": [
+    {
+      "SHA256": "C124DE70F2F50AFED243EBCC1AE2550C729D583B1CAE9C77625D68B70D5906B4",
+      "Bytes": 900,
+      "LastWriteTime": "2026-10-25T18:28:33.5792896+08:00",
+      "Name": "Mosaic.ctl"
+    },
+    {
+      "SHA256": "CD82A15FFAA4A770CF34A969C9318D05E5AE5DAA8B33FF9FCAD9B2667F3653BA",
+      "Bytes": 3123,
+      "LastWriteTime": "2026-10-25T18:28:33.5671752+08:00",
+      "Name": "Mosaic.d2s"
+    },
+    {
+      "SHA256": "80A0F485315621F0C1F51FB8970ECA450EDB53A4C15BE68885CB4A6DEF68B013",
+      "Bytes": 1362,
+      "LastWriteTime": "2026-10-25T17:45:53.9128983+08:00",
+      "Name": "Mosaic.key"
+    },
+    {
+      "SHA256": "0A1244BA01E7EFEC3DDA16D9724DA20F383F9207D42B29ADA0ABFAA1FE137D7F",
+      "Bytes": 66662,
+      "LastWriteTime": "2026-10-25T18:28:03.3935182+08:00",
+      "Name": "Mosaic.ma0"
+    },
+    {
+      "SHA256": "A47DF19A31A572D385D5AEDAEAA25000A4C30440D7F2578FB1EA88E1DA56383F",
+      "Bytes": 24,
+      "LastWriteTime": "2026-10-25T17:45:28.3442699+08:00",
+      "Name": "Mosaic.map"
+    }
+  ],
+  "Snapshot": "马赛克刺客/历史归档/20261025-183002-评测通过回存前/当前国服快照",
+  "Date": "20261025-183002"
+}
