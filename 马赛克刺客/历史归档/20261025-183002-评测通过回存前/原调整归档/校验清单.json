@@ -1,0 +1,80 @@
+{
+  "Date": "2026-10-25T17:56:13.8630136+08:00",
+  "Character": "Mosaic",
+  "Level": 99,
+  "Format": 105,
+  "Bytes": 3119,
+  "SHA256": "E3554B58D23089E353240A4323B7A4E0A090CC571119F4B8A040C66B6E44ABF4",
+  "SourceSHA256": "46FF3D862393890D854D5E1C3AF8A3ECBE181C08E7B2AF9ADF5F4B414EE06D1E",
+  "DonorSHA256": "2DD0342E0C90AC0B2856E15D3A465FC74A5386EBC04E453ADFEB8A32EE4B004B",
+  "LibrarySHA256": "333C325929D3970FACBC646E0479A7B5BCECCB98AB71D8D41B8EF7ED6C127860",
+  "Status": "本次佣兵调整与洗点补给待游戏实测",
+  "Mercenary": {
+    "OldGearRetainedInStash": [
+      {
+        "Slot": "Head",
+        "Y": 0,
+        "X": 0,
+        "Code": "usk"
+      },
+      {
+        "Slot": "Torso",
+        "Y": 0,
+        "X": 2,
+        "Code": "uar"
+      }
+    ],
+    "Helm": "满变量无形超强骸骨面罩治愈",
+    "BaseStrength": 213,
+    "BaseDexterity": 173,
+    "Level": 98,
+    "HirelingId": 14,
+    "Aura": "Blessed Aim",
+    "Armor": "无形超强执政官铠甲荣耀之链",
+    "Weapon": "原无限原样保留"
+  },
+  "TokensAdded": 20,
+  "TokenCode": "toa",
+  "BeltFullRejuvenation": 16,
+  "SkillsSpent": 110.0,
+  "Unspent": 0,
+  "Validation": {
+    "AllStorageBoundsAndOverlap": true,
+    "WrittenRoundtrip": true,
+    "MercenaryAllThreeItemsWearable": true,
+    "InGameRetestPending": true,
+    "UndoChangesReproducesSourceBytes": true,
+    "SkillsStatsGoldProgressInfinityAndExistingItemsPreserved": true,
+    "HeaderLengthChecksum": true,
+    "ColossalJewels": 1,
+    "NewSeedsUnique": true,
+    "RenewedSunderTypeAndSevenStats": true
+  },
+  "Files": [
+    {
+      "Name": "Mosaic.ctl",
+      "SHA256": "C124DE70F2F50AFED243EBCC1AE2550C729D583B1CAE9C77625D68B70D5906B4",
+      "Bytes": 900
+    },
+    {
+      "Name": "Mosaic.d2s",
+      "SHA256": "E3554B58D23089E353240A4323B7A4E0A090CC571119F4B8A040C66B6E44ABF4",
+      "Bytes": 3119
+    },
+    {
+      "Name": "Mosaic.key",
+      "SHA256": "80A0F485315621F0C1F51FB8970ECA450EDB53A4C15BE68885CB4A6DEF68B013",
+      "Bytes": 1362
+    },
+    {
+      "Name": "Mosaic.ma0",
+      "SHA256": "4A7B071B42FFE8317036FE3258BCDFF6B07FF54EC8F6E6C8A68CD466B67284CA",
+      "Bytes": 5068
+    },
+    {
+      "Name": "Mosaic.map",
+      "SHA256": "A47DF19A31A572D385D5AEDAEAA25000A4C30440D7F2578FB1EA88E1DA56383F",
+      "Bytes": 24
+    }
+  ]
+}

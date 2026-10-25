@@ -1,0 +1,31 @@
+{
+  "Result": "PASS",
+  "Character": "Mosaic",
+  "Level": 99,
+  "Format": 105,
+  "Bytes": 3123,
+  "SHA256": "CD82A15FFAA4A770CF34A969C9318D05E5AE5DAA8B33FF9FCAD9B2667F3653BA",
+  "HeaderLengthChecksum": true,
+  "WrittenRoundtrip": true,
+  "LatestGameSnapshotByteIdentical": true,
+  "AllStorageBoundsAndOverlap": true,
+  "SkillsSpent": 109.0,
+  "SkillsUnspent": 1,
+  "TokensRemaining": 19,
+  "BeltFullRejuvenation": 16,
+  "Mercenary": {
+    "Level": 98,
+    "AllThreeItemsWearable": true,
+    "Weapon": "无限",
+    "OldHeadAndArmorRetained": true,
+    "Armor": "荣耀之链",
+    "Aura": "Blessed Aim",
+    "HirelingId": 14,
+    "Helm": "治愈"
+  },
+  "RenewedLightningSunderTypeAndSevenStats": true,
+  "ColossalJewels": 1,
+  "Gold": 990000,
+  "PersonalStashGold": 2500000,
+  "SourceBackupFilesVerified": 5
+}

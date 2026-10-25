@@ -1,0 +1,38 @@
+{
+  "Source": "最新已落盘国服Mosaic",
+  "Files": [
+    {
+      "Name": "Mosaic.ctl",
+      "LastWriteTime": "2026-10-25T17:53:13.0126486+08:00",
+      "SHA256": "C124DE70F2F50AFED243EBCC1AE2550C729D583B1CAE9C77625D68B70D5906B4",
+      "Bytes": 900
+    },
+    {
+      "Name": "Mosaic.d2s",
+      "LastWriteTime": "2026-10-25T17:53:13.0005874+08:00",
+      "SHA256": "46FF3D862393890D854D5E1C3AF8A3ECBE181C08E7B2AF9ADF5F4B414EE06D1E",
+      "Bytes": 2612
+    },
+    {
+      "Name": "Mosaic.key",
+      "LastWriteTime": "2026-10-25T17:45:53.9128983+08:00",
+      "SHA256": "80A0F485315621F0C1F51FB8970ECA450EDB53A4C15BE68885CB4A6DEF68B013",
+      "Bytes": 1362
+    },
+    {
+      "Name": "Mosaic.ma0",
+      "LastWriteTime": "2026-10-25T17:53:13.1670230+08:00",
+      "SHA256": "4A7B071B42FFE8317036FE3258BCDFF6B07FF54EC8F6E6C8A68CD466B67284CA",
+      "Bytes": 5068
+    },
+    {
+      "Name": "Mosaic.map",
+      "LastWriteTime": "2026-10-25T17:45:28.3442699+08:00",
+      "SHA256": "A47DF19A31A572D385D5AEDAEAA25000A4C30440D7F2578FB1EA88E1DA56383F",
+      "Bytes": 24
+    }
+  ],
+  "Snapshot": "马赛克刺客/历史归档/20261025-175612-佣兵与洗点补给前/当前国服快照",
+  "ArchivePreviouslyExisted": false,
+  "Date": "20261025-175612"
+}
